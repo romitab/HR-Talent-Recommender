@@ -6,13 +6,13 @@ from model import hybrid_recommendation
 from transformers import pipeline
 
 st.set_page_config(page_title="HR Recommender Chatbot", layout="wide")
-st.title("HR Talent Recommender Chatbot")
+st.title("🤖 HR Talent Recommender Chatbot")
 
 # Load or upload dataset
 uploaded_file = st.file_uploader("Upload employee dataset", type="csv")
 if uploaded_file:
     df = pd.read_csv(uploaded_file)
-    st.success("Dataset uploaded successfully.")
+    st.success("✅ Dataset uploaded successfully.")
 else:
     df = pd.read_csv("Diverse_HR_Employee_Dataset_200.csv")
     st.info("Using default dataset.")
@@ -37,7 +37,7 @@ def rewrite_query_with_llm(raw_query, history=[]):
     result = llm(prompt, max_length=100, do_sample=False)[0]["generated_text"]
     return result
 
-# Initialize session state
+# Session state setup
 if "messages" not in st.session_state:
     st.session_state.messages = []
 if "history" not in st.session_state:
@@ -45,13 +45,13 @@ if "history" not in st.session_state:
 if "last_results" not in st.session_state:
     st.session_state.last_results = pd.DataFrame()
 
-# Display chat history
+# Show chat history
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
 # Chat input
-query = st.chat_input("Ask me something like: 'Give me 10 Azure-certified Data Scientists in New York'")
+query = st.chat_input("Type your query here (e.g., 'Give me 5 Azure-certified Data Scientists')")
 
 if query:
     with st.chat_message("user"):
@@ -71,11 +71,10 @@ if query:
                     st.markdown("❌ No matching candidates found.")
                     response = "No results found for your query."
                 else:
-                    response = "Here are the top recommended candidates:
-
-"
+                    response_lines = ["Here are the top recommended candidates:"]
                     for _, row in results.iterrows():
-                        response += f"- {row['Employee Name']} ({row['Job Title']}, {row['Location']})\n"
+                        response_lines.append(f"- {row['Employee Name']} ({row['Job Title']}, {row['Location']})")
+                    response = "\n".join(response_lines)
                     st.markdown(response)
             except Exception as e:
                 response = f"⚠️ Error: {e}"
