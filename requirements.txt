@@ -1,0 +1,9 @@
+
+streamlit
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+bert-score
+rouge-score
