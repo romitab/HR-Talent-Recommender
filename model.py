@@ -89,7 +89,7 @@ def hybrid_recommendation(df, query, top_k=10):
     col = {k: v["column"] for k, v in column_map.items()}
     assert all(col.values()), "Missing required columns in dataset."
 
-    embedder = SentenceTransformer("all-MiniLM-L6-v2")
+    embedder = SentenceTransformer("paraphrase-MiniLM-L6-v2")
     sentiment_analyzer = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english", device = 0)
 
     # Build embedding text
