@@ -18,11 +18,11 @@ else:
     st.info("Using default dataset.")
 
 # Load LLM for query rewriting
-@st.cache_resource
-def load_llm():
-    return pipeline("text2text-generation", model="google/flan-t5-base", use_auth_token="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")
+#@st.cache_resource
+#def load_llm():
+#    return pipeline("text2text-generation", model="google/flan-t5-base", use_auth_token="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")
 
-llm = load_llm()
+#llm = load_llm()
 
 # Extract top_k using regex
 def extract_top_k(query):
@@ -31,11 +31,7 @@ def extract_top_k(query):
 
 # Rewrite vague HR query using LLM
 def rewrite_query_with_llm(raw_query, history=[]):
-    prompt = "Rewrite this HR query into a structured search format: " + raw_query
-    if history:
-        prompt += " Consider this context: " + "; ".join(history[-2:])
-    result = llm(prompt, max_length=100, do_sample=False)[0]["generated_text"]
-    return result
+    return raw_query
 
 # Session state setup
 if "messages" not in st.session_state:
