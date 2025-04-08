@@ -12,7 +12,7 @@ uploaded_file = st.file_uploader("Upload Employee Dataset (CSV)", type=["csv"])
 if uploaded_file:
     df = pd.read_csv(uploaded_file)
 else:
-    df = pd.read_csv("Extended_HR_Employee_Dataset_200.csv")
+    df = pd.read_csv("Diverse_HR_Employee_Dataset_200.csv")
     st.info("Using default dataset (200 synthetic employees).")
 
 query = st.text_input("Enter your HR Query (e.g. 'Looking for AI engineers with NLP'):")
