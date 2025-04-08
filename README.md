@@ -24,7 +24,7 @@ This project is an AI-powered recommendation system that helps HR teams identify
 | `app.py`              | Streamlit UI for running the recommender                |
 | `model.py`            | Core recommendation engine (FAISS + embeddings + scoring)|
 | `requirements.txt`    | Python dependencies                                      |
-| `Extended_HR_Employee_Dataset_200.csv` | Sample dataset with 200 employees          |
+| `Diverse_HR_Employee_Dataset_200.csv` | Sample dataset with 200 employees          |
 
 ---
 
@@ -54,10 +54,3 @@ streamlit run app.py
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
-Made with ❤️ by your AI HR assistant.
