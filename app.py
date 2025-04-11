@@ -13,7 +13,7 @@ if uploaded_file:
     df = pd.read_csv(uploaded_file)
 else:
     df = pd.read_csv("Diverse_HR_Employee_Dataset_200.csv")
-    st.info("Using default dataset (200 synthetic employees).")
+    st.info("Using default dataset (Org synthetic employees).")
 
 query = st.text_input("Enter your HR Query (e.g. 'Looking for AI engineers with NLP'):")
 location = st.text_input("Optional: Enter location to filter (e.g. Bangalore):").strip().lower()
