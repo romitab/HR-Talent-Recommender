@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 from transformers import pipeline
 from bert_score import score as bert_score
 from rouge_score import rouge_scorer
-#df = pd.read_csv("Diverse_HR_Employee_Dataset_200.csv")
+df = pd.read_csv("Diverse_Org_Employee_Dataset_1000.csv")
 # ====== Heuristic Hints ======
 SKILL_HINTS = ["python", "sql", "ml", "ai", "docker", "power bi", "java", "tableau"]
 CERT_HINTS = ["aws", "azure", "certified", "certification", "google", "openai", "huggingface"]

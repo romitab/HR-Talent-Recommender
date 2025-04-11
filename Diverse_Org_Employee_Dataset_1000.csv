@@ -1,0 +1,1001 @@
+Employee Name,Employee ID,Job Title,Skills,Certifications,Experience,Location,Peer Feedback,Manager Feedback
+Norma Fisher,E65125,Data Scientist,"Sklearn, EDA",IBM Data Science Professional,10,Birmingham,Jonathan brings innovative solutions.,William provides consistent quality work.
+Richard Turner,E76150,IT Consultant,"DevOps, Cloud",Azure Solutions Architect,20,Brisbane,Thomas has growth potential.,Brandy provides consistent quality work.
+Kathy Campbell,E50651,UI/UX Designer,"Wireframing, Figma",Google UX Certification,16,Munich,Katelyn has shown strong technical skills.,Christine brings innovative solutions.
+Theodore Mcgrath,E51444,Lead Data Scientist,"ML Models, Mentoring",AWS ML Specialty,17,Brisbane,Lisa is a proactive team member.,Rachel has growth potential.
+Nicholas Nolan,E22225,End User Services Manager,"Incident Management, Service Desk, ITIL",ITIL Certification,8,San Francisco,Gabriella has shown strong technical skills.,Thomas needs improvement in communication.
+Jeffrey Carr,E41275,IT Engineer,"Hardware Support, Networking",CompTIA A+,3,San Francisco,Robin has growth potential.,Tammy shows great ownership.
+Sean Green,E49511,Tester,"Selenium, Manual Testing, Automation",ISTQB,20,Munich,Linda provides consistent quality work.,Ana mentors junior staff effectively.
+Nathan Ross,E22010,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,6,Sydney,Mallory delivers results on time.,Elizabeth is a proactive team member.
+Johnny Dillon,E72459,AI Engineer,"Deep Learning, NLP",Azure AI Engineer,2,Hyderabad,John has growth potential.,Mark collaborates well across teams.
+Cheryl Bradley,E46127,Product Manager,"Roadmapping, Analytics",PMI-ACP,15,Birmingham,John brings innovative solutions.,Tammy has shown strong technical skills.
+Jo Miller,E90318,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,8,Mumbai,Luke mentors junior staff effectively.,William has shown strong technical skills.
+Ashley Arnold,E58766,IT Engineer,"Networking, Hardware Support",CompTIA A+,4,Chennai,Jasmine needs improvement in communication.,Amy is a proactive team member.
+Kimberly Maynard,E88927,Product Owner,"Scrum, Backlog Management",CSPO,20,Paris,Carrie has shown strong technical skills.,Briana collaborates well across teams.
+Kyle Cruz,E58514,Developer,"Java, APIs",Oracle Certified Java Developer,6,Delhi,Barbara shows great ownership.,Kelly needs improvement in communication.
+Cody Salazar,E99043,IT Infrastructure Services,"Cloud Services, Server Management",Cisco CCNA,9,Hyderabad,Diane needs improvement in communication.,Thomas has shown strong technical skills.
+Peter Mcdowell,E55913,Machine Learning Engineer,"Model Training, Python, MLOps",TensorFlow Developer Certificate,20,Delhi,Sandra collaborates well across teams.,Megan needs improvement in communication.
+Tammy Fernandez,E56996,AI Engineer,"NLP, Deep Learning, LLMs",Azure AI Engineer,22,Pune,Peter delivers results on time.,Janet brings innovative solutions.
+Robert Atkinson,E42858,Product Manager,"Strategy, Analytics",PMI-ACP,1,Birmingham,Patty collaborates well across teams.,Brittany provides consistent quality work.
+Lauren Hayes,E50821,Product Manager,"Analytics, Strategy, Roadmapping",PMI-ACP,15,Hyderabad,Donna brings innovative solutions.,Wendy is a proactive team member.
+Rebecca Miller,E46815,Product Owner,"Scrum, Backlog Management",CSPO,20,New York,Chloe brings innovative solutions.,Tom provides consistent quality work.
+Sarah Sanchez,E50671,UI/UX Designer,"Wireframing, Sketch, Figma",Google UX Certification,20,Sydney,Jessica brings innovative solutions.,Dave delivers results on time.
+Robert Cook,E39241,IT Engineer,"Networking, Hardware Support, Linux",CompTIA A+,23,Paris,Lisa collaborates well across teams.,Craig is a proactive team member.
+Michael Williams,E68373,Associate Consultant,"Documentation, Client Interaction",PMP Associate,17,Birmingham,Audrey has growth potential.,Renee provides consistent quality work.
+Melanie Johnson,E15100,End User Services Manager,"ITIL, Incident Management, Service Desk",ITIL Certification,14,Sydney,Cynthia has growth potential.,Catherine has shown strong technical skills.
+Jeanne Wood,E11930,UI/UX Designer,"Wireframing, Sketch, Figma",Google UX Certification,7,Mumbai,Tina is a proactive team member.,Benjamin has growth potential.
+Tyler Lopez,E34963,Tester,"Selenium, Manual Testing",ISTQB,9,Pune,David has shown strong technical skills.,Jason shows great ownership.
+Taylor Johnson,E92265,Data Scientist,"Pandas, Sklearn",IBM Data Science Professional,4,Brisbane,Ronald delivers results on time.,Craig has growth potential.
+Daniel Lucas,E25087,Senior Data Scientist,"Python, Statistics",Azure Data Scientist Associate,2,Sydney,Michael mentors junior staff effectively.,Henry has growth potential.
+Amanda Garcia,E58089,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,12,Munich,Vanessa delivers results on time.,James needs improvement in communication.
+Nicholas Massey,E86955,Data Scientist,"Pandas, EDA, Sklearn",IBM Data Science Professional,11,San Francisco,Samantha brings innovative solutions.,Gary has shown strong technical skills.
+Tracy Brown,E91335,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,5,Paris,Erica mentors junior staff effectively.,Megan brings innovative solutions.
+David Carlson,E81890,Data Scientist,"Sklearn, Pandas",IBM Data Science Professional,24,Melbourne,Scott is a proactive team member.,Gregory mentors junior staff effectively.
+Jason Carroll,E78557,Associate Consultant,"Documentation, Client Interaction",PMP Associate,10,London,William has shown strong technical skills.,Larry has shown strong technical skills.
+Ryan King,E73068,Product Owner,"Backlog Management, Scrum",CSPO,16,Delhi,Ann shows great ownership.,Alexander collaborates well across teams.
+Gabriella Williams,E49571,IT Infrastructure Services,"Cloud Services, Networking, Server Management",AWS SysOps,21,Hyderabad,Juan has shown strong technical skills.,John has shown strong technical skills.
+Heather Roberts,E38974,IT Consultant,"DevOps, Cloud",Azure Solutions Architect,13,Munich,Michael has growth potential.,Stacey mentors junior staff effectively.
+Lisa Baldwin,E74044,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,8,Brisbane,Paul provides consistent quality work.,Robert delivers results on time.
+April Lee,E35158,Lead Data Scientist,"Project Leadership, ML Models, Mentoring",AWS ML Specialty,25,Sydney,Matthew has shown strong technical skills.,John shows great ownership.
+Jamie Hutchinson,E43617,Data Scientist,"EDA, Pandas",IBM Data Science Professional,20,Chennai,Ashley has shown strong technical skills.,Robert needs improvement in communication.
+Michael Barnes,E59549,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,5,Paris,Eileen collaborates well across teams.,Brandon collaborates well across teams.
+David Moore,E74933,Product Manager,"Analytics, Strategy, Roadmapping",PMI-ACP,1,San Francisco,Allison brings innovative solutions.,Tony brings innovative solutions.
+Nicole Henson,E78826,IT Infrastructure Services,"Server Management, Networking",AWS SysOps,19,New York,Troy shows great ownership.,Larry has shown strong technical skills.
+Robert Golden,E77702,Developer,"Java, APIs",Oracle Certified Java Developer,2,New York,Lisa is a proactive team member.,Jacob shows great ownership.
+Miss Angela Swanson DVM,E31061,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,17,Berlin,Richard is a proactive team member.,Erika provides consistent quality work.
+Daniel Love,E98941,Developer,"APIs, Python",Oracle Certified Java Developer,10,Munich,Aaron provides consistent quality work.,Mackenzie collaborates well across teams.
+Anne Wilson,E60930,Project Manager,"Agile, Planning",PMP,10,Berlin,Debra provides consistent quality work.,Morgan mentors junior staff effectively.
+William Garcia,E18601,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,13,Chicago,Melissa is a proactive team member.,Randy delivers results on time.
+Donald Chavez,E41319,UI/UX Designer,"Wireframing, Sketch, Figma",Google UX Certification,16,London,Laura delivers results on time.,Michelle shows great ownership.
+Joseph Curtis,E98282,Developer,"Python, APIs",Oracle Certified Java Developer,20,Manchester,Michael collaborates well across teams.,Monica shows great ownership.
+Albert Williams,E23301,IT Infrastructure Services,"Networking, Cloud Services, Server Management",Cisco CCNA,21,San Francisco,Erin has shown strong technical skills.,Angela has growth potential.
+Teresa Browning,E35555,Senior Data Scientist,"Python, Statistics, ML Algorithms",Azure Data Scientist Associate,20,Barcelona,Bobby brings innovative solutions.,Kara has shown strong technical skills.
+Mary Joseph,E26660,Machine Learning Engineer,"MLOps, Model Training, Python",TensorFlow Developer Certificate,13,Manchester,Raven brings innovative solutions.,Danielle needs improvement in communication.
+Joshua Clark,E56734,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,9,Mumbai,Brenda has growth potential.,Alan provides consistent quality work.
+Gavin Clarke,E40101,IT Consultant,"Architecture, DevOps",Azure Solutions Architect,4,Chennai,Jennifer collaborates well across teams.,Matthew provides consistent quality work.
+Amanda Martin,E21014,Lead Data Scientist,"Mentoring, Project Leadership",AWS ML Specialty,14,Chennai,Tina is a proactive team member.,Keith shows great ownership.
+Joshua Carter,E99970,Lead Data Scientist,"Project Leadership, Mentoring, ML Models",AWS ML Specialty,3,Austin,Timothy has shown strong technical skills.,John has shown strong technical skills.
+Christopher Mills,E13850,Senior Data Scientist,"Python, Statistics, ML Algorithms",Azure Data Scientist Associate,12,Hyderabad,Chad provides consistent quality work.,Richard delivers results on time.
+Jason Garcia,E10423,IT Consultant,"Architecture, Cloud",Azure Solutions Architect,10,Austin,Regina is a proactive team member.,Thomas provides consistent quality work.
+Vanessa Cooper,E28597,IT Engineer,"Networking, Linux",CompTIA A+,12,Brisbane,Timothy delivers results on time.,Holly is a proactive team member.
+Eric Navarro,E57479,IT Consultant,"DevOps, Architecture, Cloud",Azure Solutions Architect,6,Paris,Patricia has shown strong technical skills.,Samantha has shown strong technical skills.
+Jaime Villegas,E86133,Product Owner,"Scrum, Backlog Management",CSPO,5,Melbourne,Danielle brings innovative solutions.,Cameron has growth potential.
+Paul Brown,E41019,IT Engineer,"Networking, Hardware Support",CompTIA A+,22,Bangalore,Alan delivers results on time.,Phillip provides consistent quality work.
+Joan Burns,E61616,End User Services Manager,"Incident Management, Service Desk",ITIL Certification,14,New York,Brenda has growth potential.,Erin collaborates well across teams.
+Jacob Hinton,E87473,UI/UX Designer,"Sketch, Wireframing, Figma",Google UX Certification,15,Barcelona,Jose brings innovative solutions.,Kimberly has growth potential.
+Ian Brown,E59339,IT Infrastructure Services,"Networking, Server Management, Cloud Services",AWS SysOps,7,Austin,Michelle mentors junior staff effectively.,Jacqueline shows great ownership.
+Jocelyn Rhodes,E34308,Developer,"Python, Java",Oracle Certified Java Developer,23,Manchester,David collaborates well across teams.,Raymond delivers results on time.
+Andrew Gould,E66585,Lead Data Scientist,"Project Leadership, Mentoring",AWS ML Specialty,17,Chennai,Jason brings innovative solutions.,Dustin shows great ownership.
+James Payne,E73345,Developer,"Python, Java",Oracle Certified Java Developer,20,Manchester,Edward is a proactive team member.,Vanessa needs improvement in communication.
+Mrs. Jennifer Frazier,E25002,Machine Learning Engineer,"Python, Model Training, MLOps",TensorFlow Developer Certificate,3,Birmingham,Natalie needs improvement in communication.,Tyler has growth potential.
+Erica Jimenez,E46711,Data Scientist,"Pandas, Sklearn",IBM Data Science Professional,1,Brisbane,Victor collaborates well across teams.,Elizabeth has growth potential.
+Leonard Robinson,E68272,Data Scientist,"EDA, Sklearn",IBM Data Science Professional,10,Sydney,Matthew provides consistent quality work.,Sydney has shown strong technical skills.
+Sabrina Johnson,E19234,IT Infrastructure Services,"Server Management, Cloud Services, Networking",Cisco CCNA,25,Pune,Eddie has shown strong technical skills.,Jonathan collaborates well across teams.
+Sarah Aguilar,E47060,Machine Learning Engineer,"Python, Model Training",TensorFlow Developer Certificate,14,Barcelona,Jennifer has growth potential.,Lindsay collaborates well across teams.
+Bradley Melton,E48306,AI Engineer,"LLMs, Deep Learning, NLP",Azure AI Engineer,23,Delhi,Benjamin collaborates well across teams.,Jeffrey collaborates well across teams.
+Adrian Anthony,E28288,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,7,Birmingham,Mark shows great ownership.,Eugene has growth potential.
+Matthew Schmitt,E74581,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,24,Birmingham,William is a proactive team member.,Rachel provides consistent quality work.
+Laura Gregory,E13348,IT Consultant,"DevOps, Architecture, Cloud",Azure Solutions Architect,22,Hyderabad,Linda collaborates well across teams.,Katherine is a proactive team member.
+Nicole Bullock MD,E15397,Senior Data Scientist,"ML Algorithms, Statistics",Azure Data Scientist Associate,21,New York,Amanda needs improvement in communication.,Carmen delivers results on time.
+Karen Gibbs,E35061,Machine Learning Engineer,"MLOps, Python",TensorFlow Developer Certificate,13,Pune,Paul brings innovative solutions.,Brenda collaborates well across teams.
+Rebecca Sandoval,E29401,Lead Data Scientist,"ML Models, Project Leadership, Mentoring",AWS ML Specialty,7,Pune,Aaron shows great ownership.,Hunter brings innovative solutions.
+Dawn Jones,E66005,Data Scientist,"Sklearn, Pandas, EDA",IBM Data Science Professional,7,Paris,Michelle is a proactive team member.,Sherri collaborates well across teams.
+Jason Patrick,E40674,IT Infrastructure Services,"Networking, Server Management",Cisco CCNA,24,Barcelona,Bryan delivers results on time.,Danielle needs improvement in communication.
+Dustin Greer,E90282,Machine Learning Engineer,"Python, MLOps",TensorFlow Developer Certificate,14,Manchester,Brian is a proactive team member.,Barry has growth potential.
+John Boyer,E66440,Product Owner,"Backlog Management, Scrum",CSPO,7,San Francisco,Jennifer mentors junior staff effectively.,Emily is a proactive team member.
+William Jenkins,E16888,IT Infrastructure Services,"Server Management, Networking",AWS SysOps,21,Mumbai,Cheryl delivers results on time.,Paul has shown strong technical skills.
+John Hernandez,E99195,Lead Data Scientist,"ML Models, Mentoring",AWS ML Specialty,15,Sydney,Antonio brings innovative solutions.,Christina provides consistent quality work.
+Ashley Dunn,E89476,Tester,"Automation, Selenium",ISTQB,11,Brisbane,Michael is a proactive team member.,Patrick has growth potential.
+Katherine Ibarra,E34920,IT Infrastructure Services,"Networking, Cloud Services, Server Management",Cisco CCNA,7,Brisbane,Chelsea mentors junior staff effectively.,Tanner mentors junior staff effectively.
+Gail Martinez,E60419,Product Manager,"Analytics, Strategy, Roadmapping",PMI-ACP,10,Munich,Felicia has shown strong technical skills.,Christy is a proactive team member.
+Bethany Buck,E74920,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,15,Manchester,Lauren has shown strong technical skills.,Sabrina has shown strong technical skills.
+Melanie Patrick,E41607,Developer,"Java, Python",Oracle Certified Java Developer,15,Amsterdam,April has shown strong technical skills.,Kristen collaborates well across teams.
+Richard Wallace,E61704,Product Owner,"Scrum, Backlog Management",CSPO,8,Chennai,Katherine mentors junior staff effectively.,Stanley brings innovative solutions.
+Angela Williams,E66995,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,25,Manchester,Sarah has growth potential.,Todd provides consistent quality work.
+Theresa Estrada,E80276,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,4,Amsterdam,Ashley has shown strong technical skills.,Jason delivers results on time.
+Robert Oneal,E42607,Lead Data Scientist,"Mentoring, Project Leadership",AWS ML Specialty,2,Delhi,Kimberly collaborates well across teams.,Holly mentors junior staff effectively.
+Eric Wilson,E84012,Tester,"Manual Testing, Automation, Selenium",ISTQB,3,Berlin,Ronald mentors junior staff effectively.,Ashlee brings innovative solutions.
+Taylor Perry,E58915,IT Engineer,"Networking, Linux, Hardware Support",CompTIA A+,18,Berlin,Cory brings innovative solutions.,Kim brings innovative solutions.
+Amanda Griffin,E27016,End User Services Manager,"Service Desk, Incident Management, ITIL",ITIL Certification,25,Sydney,Gina shows great ownership.,Anthony provides consistent quality work.
+Tonya Sharp,E40843,IT Consultant,"Cloud, DevOps",Azure Solutions Architect,20,Paris,Christian delivers results on time.,Chad shows great ownership.
+Allen Bailey,E90742,Tester,"Selenium, Automation",ISTQB,15,New York,Alejandro is a proactive team member.,Terri needs improvement in communication.
+Andrea Barry,E95559,Product Owner,"Backlog Management, Scrum",CSPO,23,Hyderabad,Jared mentors junior staff effectively.,Jamie delivers results on time.
+Teresa Martinez,E35043,Data Scientist,"Sklearn, EDA, Pandas",IBM Data Science Professional,2,San Francisco,Adrian needs improvement in communication.,Mike brings innovative solutions.
+Larry Villarreal,E97612,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,10,Mumbai,Jacob brings innovative solutions.,Daniel provides consistent quality work.
+Tyler Anderson,E17626,Product Owner,"Backlog Management, Scrum",CSPO,21,Bangalore,Tammy is a proactive team member.,Michael needs improvement in communication.
+Edward Giles,E11630,IT Infrastructure Services,"Cloud Services, Server Management",Cisco CCNA,2,Austin,Susan collaborates well across teams.,Cynthia delivers results on time.
+Willie Garcia,E68846,IT Consultant,"Cloud, DevOps, Architecture",Azure Solutions Architect,21,San Francisco,Beverly collaborates well across teams.,Eric collaborates well across teams.
+Theresa Brock,E63645,End User Services Manager,"Incident Management, ITIL, Service Desk",ITIL Certification,14,Chicago,Leslie delivers results on time.,John is a proactive team member.
+Donna Barnes,E28117,Product Manager,"Roadmapping, Analytics",PMI-ACP,6,Melbourne,Brandon is a proactive team member.,David delivers results on time.
+Blake Jones,E32061,Product Owner,"Backlog Management, Scrum",CSPO,23,Chennai,Robert provides consistent quality work.,Andrea provides consistent quality work.
+Brenda Henderson,E43092,IT Infrastructure Services,"Cloud Services, Server Management, Networking",Cisco CCNA,16,Hyderabad,Dana brings innovative solutions.,Christopher mentors junior staff effectively.
+Jacob Rush,E70046,UI/UX Designer,"Wireframing, Sketch",Google UX Certification,24,Chicago,Brian brings innovative solutions.,Ricky mentors junior staff effectively.
+Nicholas Flores,E61457,Project Manager,"Scrum, Planning",PMP,2,Munich,James provides consistent quality work.,Kelly has growth potential.
+Travis Hogan,E15020,AI Engineer,"LLMs, Deep Learning, NLP",AWS ML Specialty,16,Bangalore,Joshua is a proactive team member.,Angela mentors junior staff effectively.
+Rebecca Griffin,E43281,IT Infrastructure Services,"Cloud Services, Networking, Server Management",AWS SysOps,9,Sydney,Raymond has shown strong technical skills.,Katrina provides consistent quality work.
+David Chavez,E41804,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,24,Mumbai,Sharon provides consistent quality work.,Douglas is a proactive team member.
+Mark Webb,E55164,UI/UX Designer,"Sketch, Wireframing, Figma",Google UX Certification,13,Amsterdam,James collaborates well across teams.,Aaron delivers results on time.
+Lisa Smith,E28449,End User Services Manager,"ITIL, Service Desk",ITIL Certification,1,Birmingham,Kenneth mentors junior staff effectively.,Kayla provides consistent quality work.
+Kimberly Moore,E19207,IT Consultant,"DevOps, Cloud, Architecture",Azure Solutions Architect,22,Barcelona,Jasmine delivers results on time.,Thomas provides consistent quality work.
+Olivia Hall,E76050,Tester,"Automation, Selenium, Manual Testing",ISTQB,1,London,Kathleen mentors junior staff effectively.,Joshua mentors junior staff effectively.
+Mrs. Stacey Williams,E79109,Product Owner,"Backlog Management, Scrum",CSPO,5,Mumbai,Jonathan has growth potential.,Alicia delivers results on time.
+Jennifer Garcia,E57309,Data Scientist,"Pandas, Sklearn, EDA",IBM Data Science Professional,12,Berlin,Johnny delivers results on time.,Justin needs improvement in communication.
+Susan Larson,E92288,Senior Data Scientist,"Statistics, ML Algorithms, Python",Azure Data Scientist Associate,6,London,Austin has shown strong technical skills.,Laura provides consistent quality work.
+Gerald Moreno,E41029,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,15,Hyderabad,John collaborates well across teams.,Samantha collaborates well across teams.
+Jason Roberts,E43120,AI Engineer,"LLMs, NLP, Deep Learning",AWS ML Specialty,1,Birmingham,April is a proactive team member.,Audrey mentors junior staff effectively.
+Kim Jenkins,E62153,IT Consultant,"DevOps, Architecture, Cloud",Azure Solutions Architect,12,Paris,Cynthia delivers results on time.,Richard provides consistent quality work.
+Rachel Carter,E53006,AI Engineer,"LLMs, NLP",Azure AI Engineer,2,Hyderabad,Nathan provides consistent quality work.,Courtney brings innovative solutions.
+Michael James,E10588,Senior Data Scientist,"Statistics, ML Algorithms",Azure Data Scientist Associate,2,San Francisco,Brittany is a proactive team member.,Donald brings innovative solutions.
+Heather Kennedy,E26419,Data Scientist,"Sklearn, Pandas, EDA",IBM Data Science Professional,10,Berlin,Robert is a proactive team member.,Thomas delivers results on time.
+Emily Pearson,E27557,UI/UX Designer,"Wireframing, Figma, Sketch",Google UX Certification,6,Austin,Brian provides consistent quality work.,Kevin has shown strong technical skills.
+Amy Howell,E83373,Developer,"Python, Java",Oracle Certified Java Developer,11,Brisbane,Anthony mentors junior staff effectively.,Thomas has growth potential.
+Alexandra Rose,E30342,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,21,Berlin,Carl is a proactive team member.,Michelle brings innovative solutions.
+Natalie Caldwell,E35282,Developer,"APIs, Java, Python",Oracle Certified Java Developer,23,San Francisco,Adam delivers results on time.,Blake shows great ownership.
+Zoe Marks,E17492,Product Owner,"Backlog Management, Scrum",CSPO,4,London,Holly provides consistent quality work.,Jessica brings innovative solutions.
+Paul Roberts,E54014,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,11,Mumbai,Daniel delivers results on time.,Steven delivers results on time.
+Christopher Fisher,E54287,End User Services Manager,"Service Desk, ITIL",ITIL Certification,23,New York,Phyllis collaborates well across teams.,Ryan is a proactive team member.
+Michael Warren,E56908,Associate Consultant,"Documentation, Client Interaction",PMP Associate,12,Amsterdam,David provides consistent quality work.,Renee mentors junior staff effectively.
+Richard Price,E83758,Machine Learning Engineer,"MLOps, Model Training, Python",TensorFlow Developer Certificate,9,Sydney,Lindsay collaborates well across teams.,Perry has shown strong technical skills.
+Craig Bentley,E22622,Senior Data Scientist,"Statistics, Python",Azure Data Scientist Associate,6,Chicago,Brenda provides consistent quality work.,Brandon is a proactive team member.
+David Miller,E69831,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,18,Chicago,Jacob mentors junior staff effectively.,Brian is a proactive team member.
+Carrie Bishop,E22545,Product Manager,"Analytics, Strategy",PMI-ACP,16,Bangalore,Cheyenne delivers results on time.,Janet has growth potential.
+Diane Rich,E14823,Machine Learning Engineer,"MLOps, Python",TensorFlow Developer Certificate,18,Chennai,Michael delivers results on time.,Stephen delivers results on time.
+Kelli Huber,E93901,Associate Consultant,"Documentation, Client Interaction",PMP Associate,21,Chicago,Stephanie is a proactive team member.,Sarah needs improvement in communication.
+Lauren Henry,E93318,IT Engineer,"Networking, Linux, Hardware Support",CompTIA A+,8,Pune,Janet collaborates well across teams.,Jason shows great ownership.
+Andrew Martin,E84105,Senior Data Scientist,"Python, Statistics",Azure Data Scientist Associate,19,Mumbai,Adam collaborates well across teams.,Diamond delivers results on time.
+Richard Becker,E12557,UI/UX Designer,"Sketch, Figma",Google UX Certification,2,Delhi,Tara provides consistent quality work.,Randy provides consistent quality work.
+Jody Morgan,E30073,UI/UX Designer,"Figma, Sketch, Wireframing",Google UX Certification,23,Melbourne,Curtis delivers results on time.,Nicole brings innovative solutions.
+Erica Bryant,E38398,Product Manager,"Roadmapping, Strategy, Analytics",PMI-ACP,4,London,Mark collaborates well across teams.,Anthony needs improvement in communication.
+Jacob Clark,E60037,Project Manager,"Scrum, Agile",PMP,13,Paris,Alice has shown strong technical skills.,Jacob mentors junior staff effectively.
+Michael Fitzgerald,E79020,AI Engineer,"NLP, Deep Learning, LLMs",Azure AI Engineer,9,Bangalore,Larry provides consistent quality work.,Michelle brings innovative solutions.
+Gregory Marquez,E92064,Data Scientist,"EDA, Pandas",IBM Data Science Professional,23,Chicago,Bradley is a proactive team member.,Sarah collaborates well across teams.
+Joel Hardy,E66748,Data Scientist,"EDA, Sklearn",IBM Data Science Professional,6,Pune,Brandon brings innovative solutions.,Lisa shows great ownership.
+Julia Wilson,E30841,Lead Data Scientist,"ML Models, Project Leadership, Mentoring",AWS ML Specialty,5,Barcelona,Christopher brings innovative solutions.,Corey shows great ownership.
+Jennifer Calhoun,E17065,Product Manager,"Analytics, Roadmapping",PMI-ACP,10,Chicago,Scott is a proactive team member.,Chris mentors junior staff effectively.
+Paul Calderon,E66519,Product Owner,"Backlog Management, Scrum",CSPO,24,Sydney,Benjamin brings innovative solutions.,Henry delivers results on time.
+Carl Pitts DVM,E24457,UI/UX Designer,"Figma, Wireframing, Sketch",Google UX Certification,15,Hyderabad,Luis has shown strong technical skills.,Ryan collaborates well across teams.
+Donna Weaver,E82602,Product Owner,"Scrum, Backlog Management",CSPO,6,Melbourne,James is a proactive team member.,Kenneth has growth potential.
+Larry Herrera,E74624,UI/UX Designer,"Wireframing, Sketch, Figma",Google UX Certification,14,Brisbane,Jose delivers results on time.,Jesse brings innovative solutions.
+Richard Garcia,E53488,Product Manager,"Analytics, Strategy",PMI-ACP,13,Austin,Jessica collaborates well across teams.,John shows great ownership.
+Noah Keller,E50128,Product Manager,"Analytics, Roadmapping, Strategy",PMI-ACP,1,Paris,Judy provides consistent quality work.,Zachary has growth potential.
+Barbara Brewer,E94850,Tester,"Selenium, Manual Testing",ISTQB,23,Amsterdam,David delivers results on time.,Jo collaborates well across teams.
+Michael Warner,E14721,Developer,"Java, Python",Oracle Certified Java Developer,11,Delhi,Donna shows great ownership.,Jeffrey brings innovative solutions.
+Cynthia Holmes,E97365,AI Engineer,"Deep Learning, NLP, LLMs",Azure AI Engineer,1,Barcelona,Emily delivers results on time.,Jesus has growth potential.
+Donna Jackson,E89725,Lead Data Scientist,"Mentoring, ML Models",AWS ML Specialty,1,Paris,Lisa delivers results on time.,Angela collaborates well across teams.
+Kevin Johnson,E67797,Associate Consultant,"Documentation, Client Interaction",PMP Associate,11,Melbourne,David has growth potential.,Randall shows great ownership.
+Kayla Jones,E72907,IT Infrastructure Services,"Server Management, Cloud Services",AWS SysOps,16,Brisbane,Kathy delivers results on time.,Kimberly needs improvement in communication.
+Laura Dominguez,E57752,Product Owner,"Backlog Management, Scrum",CSPO,3,Hyderabad,Jason shows great ownership.,Jessica collaborates well across teams.
+Olivia Gomez,E82894,Lead Data Scientist,"Mentoring, ML Models",AWS ML Specialty,4,New York,Brittany delivers results on time.,Cristina brings innovative solutions.
+Ashley Flowers,E28170,Tester,"Selenium, Manual Testing",ISTQB,1,Bangalore,Alicia collaborates well across teams.,Michael has growth potential.
+Adam Robinson,E24030,Project Manager,"Planning, Scrum, Agile",PMP,22,Mumbai,Denise needs improvement in communication.,Donna needs improvement in communication.
+Troy Castillo MD,E50828,Project Manager,"Agile, Planning, Scrum",PMP,17,San Francisco,Melanie has shown strong technical skills.,Jonathon has shown strong technical skills.
+Michele Underwood,E85191,Machine Learning Engineer,"Model Training, MLOps, Python",TensorFlow Developer Certificate,8,New York,Kristen needs improvement in communication.,Patrick shows great ownership.
+Andrew Barber,E47080,Senior Data Scientist,"ML Algorithms, Statistics, Python",Azure Data Scientist Associate,12,Berlin,Suzanne shows great ownership.,Matthew needs improvement in communication.
+Nicholas Barrett,E92858,Senior Data Scientist,"Python, ML Algorithms, Statistics",Azure Data Scientist Associate,25,New York,Jordan has shown strong technical skills.,Emily shows great ownership.
+Herbert Ryan,E25810,Machine Learning Engineer,"Model Training, MLOps, Python",TensorFlow Developer Certificate,11,Birmingham,Jessica needs improvement in communication.,Edward has shown strong technical skills.
+Mark Johnson,E60949,Data Scientist,"EDA, Sklearn, Pandas",IBM Data Science Professional,17,New York,Brady shows great ownership.,Jeremiah needs improvement in communication.
+Andrea Brown,E77884,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,13,Melbourne,Teresa collaborates well across teams.,Roberto is a proactive team member.
+Cindy Graham,E63281,IT Infrastructure Services,"Server Management, Networking",AWS SysOps,6,Delhi,Michael delivers results on time.,Gregory brings innovative solutions.
+William Burgess,E40635,End User Services Manager,"Service Desk, ITIL",ITIL Certification,5,Delhi,Patrick provides consistent quality work.,Robert provides consistent quality work.
+Joseph Fitzgerald,E20690,IT Consultant,"Cloud, Architecture, DevOps",Azure Solutions Architect,18,Pune,Gloria needs improvement in communication.,Steven needs improvement in communication.
+Thomas Ortiz,E60060,Lead Data Scientist,"Project Leadership, Mentoring, ML Models",AWS ML Specialty,25,Bangalore,Peter provides consistent quality work.,Aaron mentors junior staff effectively.
+Sean Palmer,E86390,End User Services Manager,"Incident Management, ITIL, Service Desk",ITIL Certification,21,Chennai,Jessica provides consistent quality work.,Eddie has growth potential.
+Ryan Hoover,E42993,Developer,"APIs, Java",Oracle Certified Java Developer,1,Chennai,John provides consistent quality work.,Andrew delivers results on time.
+Caroline French,E37143,Data Scientist,"Pandas, Sklearn, EDA",IBM Data Science Professional,23,Birmingham,Gabriela has shown strong technical skills.,Gary has growth potential.
+Timothy Harper,E71577,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,14,Brisbane,Christine collaborates well across teams.,Stephen has shown strong technical skills.
+Lance King,E53986,Product Manager,"Analytics, Roadmapping",PMI-ACP,16,London,Linda is a proactive team member.,Jessica shows great ownership.
+Timothy Johnson,E82412,End User Services Manager,"ITIL, Service Desk, Incident Management",ITIL Certification,9,Birmingham,Christopher shows great ownership.,Kelly delivers results on time.
+David Kelly,E67790,IT Engineer,"Networking, Hardware Support, Linux",CompTIA A+,7,New York,Jill has growth potential.,Richard has shown strong technical skills.
+Johnathan Long,E30330,IT Infrastructure Services,"Networking, Server Management, Cloud Services",AWS SysOps,13,Sydney,Lance collaborates well across teams.,Rachel shows great ownership.
+Vanessa Mejia,E31956,IT Consultant,"Cloud, DevOps, Architecture",Azure Solutions Architect,6,Berlin,Ashley has growth potential.,Jose provides consistent quality work.
+Joy Griffith,E29942,Lead Data Scientist,"ML Models, Project Leadership, Mentoring",AWS ML Specialty,8,Birmingham,Richard provides consistent quality work.,Tyler brings innovative solutions.
+Patrick Johnson,E35741,Product Owner,"Scrum, Backlog Management",CSPO,8,Manchester,Erin provides consistent quality work.,Brandi needs improvement in communication.
+Donna Parks,E77596,Tester,"Selenium, Automation, Manual Testing",ISTQB,22,Sydney,Jamie delivers results on time.,Allison brings innovative solutions.
+William Bonilla,E56731,Product Owner,"Backlog Management, Scrum",CSPO,15,Hyderabad,Jason delivers results on time.,Ashlee needs improvement in communication.
+Warren Middleton,E30417,Tester,"Automation, Manual Testing, Selenium",ISTQB,1,Chicago,Brenda needs improvement in communication.,Jennifer has shown strong technical skills.
+Heather Hendricks,E86739,Lead Data Scientist,"ML Models, Project Leadership, Mentoring",AWS ML Specialty,17,Barcelona,Rachel shows great ownership.,Mark mentors junior staff effectively.
+Alexa Velasquez,E81292,Data Scientist,"Pandas, Sklearn",IBM Data Science Professional,7,London,Annette provides consistent quality work.,Stephanie brings innovative solutions.
+Mario Morris,E20972,Machine Learning Engineer,"Model Training, Python",TensorFlow Developer Certificate,5,Manchester,Kirsten mentors junior staff effectively.,Caroline has shown strong technical skills.
+Mrs. Brenda Williams,E46497,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,8,Paris,David mentors junior staff effectively.,Sarah has shown strong technical skills.
+Karen Arroyo,E30288,IT Infrastructure Services,"Cloud Services, Server Management, Networking",AWS SysOps,14,San Francisco,Loretta collaborates well across teams.,Kimberly is a proactive team member.
+Chelsea Dunn,E66917,Tester,"Manual Testing, Selenium",ISTQB,23,London,Rodney needs improvement in communication.,Stephanie is a proactive team member.
+Christopher Hopkins,E44624,AI Engineer,"Deep Learning, LLMs, NLP",AWS ML Specialty,20,Barcelona,Eric needs improvement in communication.,Daniel has growth potential.
+Rebecca Jacobs,E17812,Product Owner,"Scrum, Backlog Management",CSPO,1,Barcelona,Karen mentors junior staff effectively.,Joseph brings innovative solutions.
+Jeffrey Ewing,E55094,UI/UX Designer,"Wireframing, Sketch",Google UX Certification,9,Paris,Jennifer has shown strong technical skills.,Sophia has growth potential.
+Kristen Branch,E86834,Developer,"Python, Java",Oracle Certified Java Developer,12,Delhi,James has growth potential.,Kimberly needs improvement in communication.
+Sarah Brady,E96948,Associate Consultant,"Documentation, Client Interaction",PMP Associate,12,Pune,Eric mentors junior staff effectively.,Donna brings innovative solutions.
+Kristine Ward,E36318,Product Owner,"Backlog Management, Scrum",CSPO,9,Munich,Stefanie is a proactive team member.,Anna has shown strong technical skills.
+Lucas Brock,E50417,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,10,Delhi,Jeremy delivers results on time.,Alfred mentors junior staff effectively.
+Teresa Frazier,E77201,IT Consultant,"DevOps, Cloud, Architecture",Azure Solutions Architect,4,Hyderabad,Crystal provides consistent quality work.,Courtney shows great ownership.
+Nicholas Wright PhD,E32824,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,2,Mumbai,Joshua is a proactive team member.,Sierra mentors junior staff effectively.
+Angela West,E96666,Developer,"Python, APIs, Java",Oracle Certified Java Developer,23,Berlin,Julie delivers results on time.,Shannon mentors junior staff effectively.
+Renee Bush,E60936,IT Infrastructure Services,"Server Management, Networking, Cloud Services",AWS SysOps,18,Birmingham,Susan shows great ownership.,Frank has shown strong technical skills.
+Tanya Walters,E59082,Lead Data Scientist,"ML Models, Project Leadership",AWS ML Specialty,23,Birmingham,Shelby collaborates well across teams.,Johnny is a proactive team member.
+Patricia Lynch,E20630,IT Engineer,"Linux, Hardware Support, Networking",CompTIA A+,1,Austin,Christopher has growth potential.,Anthony collaborates well across teams.
+David Farmer,E79118,Tester,"Automation, Selenium",ISTQB,13,London,Paul shows great ownership.,Kimberly is a proactive team member.
+Jean Beard,E78712,Associate Consultant,"Client Interaction, Documentation",PMP Associate,8,New York,Benjamin delivers results on time.,Steven delivers results on time.
+Beth Page,E42820,Product Owner,"Scrum, Backlog Management",CSPO,23,Pune,Mark needs improvement in communication.,Andrew has growth potential.
+Joseph Williams,E86207,UI/UX Designer,"Wireframing, Figma",Google UX Certification,23,Mumbai,Ashlee shows great ownership.,Michael needs improvement in communication.
+Connor Rodriguez,E64007,IT Infrastructure Services,"Server Management, Cloud Services",Cisco CCNA,13,Munich,Amber has growth potential.,Bradley shows great ownership.
+Sarah Landry,E26616,Tester,"Selenium, Manual Testing",ISTQB,1,Melbourne,Leroy collaborates well across teams.,Rebecca shows great ownership.
+Dr. Denise Lambert,E64060,AI Engineer,"NLP, LLMs, Deep Learning",Azure AI Engineer,25,Pune,Caitlin provides consistent quality work.,Richard needs improvement in communication.
+Anthony Martinez,E15943,IT Consultant,"Architecture, Cloud",Azure Solutions Architect,8,Manchester,Dennis delivers results on time.,Timothy provides consistent quality work.
+Pamela Williams,E47900,Product Manager,"Strategy, Roadmapping",PMI-ACP,22,Austin,Madison brings innovative solutions.,Bradley mentors junior staff effectively.
+Natasha Welch,E94103,Product Manager,"Roadmapping, Strategy, Analytics",PMI-ACP,20,Chicago,Stephanie brings innovative solutions.,Melvin shows great ownership.
+Angela Castro,E67720,Machine Learning Engineer,"MLOps, Python",TensorFlow Developer Certificate,12,Barcelona,Lisa provides consistent quality work.,James collaborates well across teams.
+Michael King,E85858,Data Scientist,"EDA, Sklearn, Pandas",IBM Data Science Professional,14,Sydney,Jonathon mentors junior staff effectively.,Selena has growth potential.
+Mrs. Stephanie Tran MD,E76801,Associate Consultant,"Documentation, Client Interaction",PMP Associate,14,New York,Brenda shows great ownership.,Darlene has growth potential.
+Peter Meyers,E35470,IT Infrastructure Services,"Server Management, Networking, Cloud Services",Cisco CCNA,20,Delhi,Charles mentors junior staff effectively.,Deborah is a proactive team member.
+David Ellis,E34248,IT Consultant,"Architecture, DevOps",Azure Solutions Architect,1,Mumbai,Erik is a proactive team member.,Matthew provides consistent quality work.
+Karen Peters,E50685,Associate Consultant,"Documentation, Client Interaction",PMP Associate,12,Hyderabad,Amy provides consistent quality work.,Lori collaborates well across teams.
+Robert Miller,E13241,Tester,"Manual Testing, Automation",ISTQB,24,Sydney,Ronald collaborates well across teams.,Michael needs improvement in communication.
+Roy Hunt,E34179,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,19,Barcelona,Vanessa needs improvement in communication.,Michelle is a proactive team member.
+Evan Johnson,E67165,IT Infrastructure Services,"Cloud Services, Networking",Cisco CCNA,14,New York,Jessica brings innovative solutions.,Andrew provides consistent quality work.
+Cheryl Gutierrez,E18056,IT Consultant,"Cloud, DevOps, Architecture",Azure Solutions Architect,16,Amsterdam,Bryan brings innovative solutions.,Larry mentors junior staff effectively.
+Anthony Saunders,E70117,Developer,"Java, Python",Oracle Certified Java Developer,20,Manchester,Jennifer collaborates well across teams.,Michael delivers results on time.
+Angela Brown,E26567,Lead Data Scientist,"ML Models, Project Leadership",AWS ML Specialty,24,Birmingham,Michael mentors junior staff effectively.,Rachel has shown strong technical skills.
+Megan Hart,E44370,Lead Data Scientist,"Project Leadership, Mentoring, ML Models",AWS ML Specialty,2,Amsterdam,Linda is a proactive team member.,Robert delivers results on time.
+Robert Lee,E63490,Tester,"Automation, Manual Testing, Selenium",ISTQB,3,Chicago,Paul provides consistent quality work.,Michael needs improvement in communication.
+Gregory Thompson,E37425,IT Infrastructure Services,"Networking, Cloud Services, Server Management",Cisco CCNA,18,New York,Christina collaborates well across teams.,Denise collaborates well across teams.
+Jesus Spencer,E17179,Product Owner,"Scrum, Backlog Management",CSPO,19,Pune,Monica has shown strong technical skills.,Tyler provides consistent quality work.
+Anthony Atkins,E47723,Project Manager,"Scrum, Agile, Planning",PMP,21,Bangalore,Krystal has growth potential.,Michele has shown strong technical skills.
+Matthew Davis,E93817,End User Services Manager,"Service Desk, Incident Management, ITIL",ITIL Certification,11,Mumbai,Margaret brings innovative solutions.,Matthew delivers results on time.
+Kaitlin Johnson,E85806,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,9,Manchester,Regina brings innovative solutions.,Connie shows great ownership.
+Andrew Bennett,E80215,Project Manager,"Agile, Scrum",PMP,13,Chicago,Eric has growth potential.,Amy shows great ownership.
+Christopher Mccall,E65819,Product Owner,"Scrum, Backlog Management",CSPO,17,San Francisco,Danielle delivers results on time.,John has shown strong technical skills.
+Lori Dougherty,E30433,UI/UX Designer,"Sketch, Figma",Google UX Certification,17,Brisbane,Timothy provides consistent quality work.,Pamela mentors junior staff effectively.
+Amanda Allen,E97241,Senior Data Scientist,"Python, ML Algorithms, Statistics",Azure Data Scientist Associate,8,Berlin,Juan is a proactive team member.,George collaborates well across teams.
+Darrell Johns,E54861,Senior Data Scientist,"Statistics, ML Algorithms",Azure Data Scientist Associate,4,Austin,Steven collaborates well across teams.,Nancy provides consistent quality work.
+Karl Smith,E81532,IT Engineer,"Hardware Support, Linux",CompTIA A+,19,Austin,Sarah is a proactive team member.,Adam brings innovative solutions.
+Robert Cooke,E54683,Associate Consultant,"Documentation, Client Interaction",PMP Associate,1,Barcelona,Andrew needs improvement in communication.,Madison shows great ownership.
+Amanda Waters,E99576,Senior Data Scientist,"Statistics, Python",Azure Data Scientist Associate,13,New York,Daniel provides consistent quality work.,Cheryl shows great ownership.
+Megan James,E13577,IT Consultant,"Architecture, Cloud, DevOps",Azure Solutions Architect,19,San Francisco,Anthony collaborates well across teams.,Samuel provides consistent quality work.
+Faith Wright,E77161,UI/UX Designer,"Sketch, Figma, Wireframing",Google UX Certification,10,Melbourne,Devin needs improvement in communication.,William mentors junior staff effectively.
+Angel Russell,E80315,IT Engineer,"Networking, Linux, Hardware Support",CompTIA A+,11,Melbourne,Donna delivers results on time.,Tammy mentors junior staff effectively.
+Jeffrey Ruiz,E32672,Product Owner,"Backlog Management, Scrum",CSPO,23,Pune,Jeffrey provides consistent quality work.,Ralph brings innovative solutions.
+Jennifer Perkins,E21638,IT Engineer,"Linux, Networking, Hardware Support",CompTIA A+,17,Sydney,Mary brings innovative solutions.,Whitney collaborates well across teams.
+Jacqueline Johnson,E12718,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,18,Manchester,Cheryl has shown strong technical skills.,Thomas mentors junior staff effectively.
+Andrew Morris,E47718,Product Manager,"Analytics, Strategy, Roadmapping",PMI-ACP,4,Bangalore,Lauren brings innovative solutions.,Tamara delivers results on time.
+Shawn Williams,E90607,AI Engineer,"LLMs, NLP, Deep Learning",AWS ML Specialty,8,Hyderabad,Jennifer has shown strong technical skills.,Anthony has shown strong technical skills.
+Seth Long,E12297,Product Manager,"Strategy, Roadmapping, Analytics",PMI-ACP,2,Delhi,Sandra mentors junior staff effectively.,Jennifer has shown strong technical skills.
+Candice Peterson,E26828,Data Scientist,"Sklearn, EDA",IBM Data Science Professional,6,Paris,Robert needs improvement in communication.,Brittany delivers results on time.
+Diane Gordon DVM,E39925,UI/UX Designer,"Sketch, Wireframing, Figma",Google UX Certification,7,Hyderabad,Michael delivers results on time.,Courtney collaborates well across teams.
+Lorraine Molina,E36066,Associate Consultant,"Documentation, Client Interaction",PMP Associate,25,Brisbane,James has shown strong technical skills.,Susan provides consistent quality work.
+Kevin Phillips,E88528,AI Engineer,"Deep Learning, NLP",Azure AI Engineer,24,Paris,Cynthia is a proactive team member.,Kelly collaborates well across teams.
+Michael Adams,E29067,UI/UX Designer,"Wireframing, Figma, Sketch",Google UX Certification,22,Pune,Jessica shows great ownership.,Michael brings innovative solutions.
+Louis Martin,E40335,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,16,Brisbane,Russell brings innovative solutions.,Raymond has growth potential.
+Michael Becker,E38556,Machine Learning Engineer,"Python, MLOps, Model Training",TensorFlow Developer Certificate,13,Delhi,Kimberly provides consistent quality work.,Amy has shown strong technical skills.
+Caroline Clark,E28150,Product Manager,"Roadmapping, Analytics, Strategy",PMI-ACP,25,Pune,Jeremy has shown strong technical skills.,Alicia mentors junior staff effectively.
+Heather Macias,E52867,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,24,Chicago,Jill has growth potential.,Jennifer delivers results on time.
+Bryan Estes,E84610,Product Owner,"Scrum, Backlog Management",CSPO,17,Paris,Melissa collaborates well across teams.,Robert needs improvement in communication.
+Stephanie Peterson,E36666,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,4,Berlin,Walter shows great ownership.,Martin delivers results on time.
+Susan Rollins,E36412,IT Infrastructure Services,"Networking, Cloud Services",AWS SysOps,14,Hyderabad,Julia has growth potential.,Kevin needs improvement in communication.
+Wendy Reed,E36045,Product Manager,"Analytics, Roadmapping",PMI-ACP,4,Berlin,Stacy delivers results on time.,William provides consistent quality work.
+Whitney Hess,E82120,IT Consultant,"Architecture, DevOps, Cloud",Azure Solutions Architect,21,Barcelona,Frances provides consistent quality work.,Eric is a proactive team member.
+Kyle Bush,E55268,Senior Data Scientist,"ML Algorithms, Statistics",Azure Data Scientist Associate,15,Sydney,Selena has growth potential.,Zachary needs improvement in communication.
+Maria Harris,E28788,End User Services Manager,"ITIL, Incident Management",ITIL Certification,20,Brisbane,Dawn mentors junior staff effectively.,Tina collaborates well across teams.
+Michael Mendez,E97068,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,12,Amsterdam,Nicholas provides consistent quality work.,Laura has shown strong technical skills.
+Steven Roth,E27838,IT Engineer,"Linux, Hardware Support, Networking",CompTIA A+,5,Berlin,Timothy brings innovative solutions.,Daniel delivers results on time.
+Kevin King,E76568,Tester,"Automation, Manual Testing, Selenium",ISTQB,7,New York,Tommy has growth potential.,Kimberly collaborates well across teams.
+Kristina Wilcox,E61742,Data Scientist,"Pandas, Sklearn",IBM Data Science Professional,10,Barcelona,Christian delivers results on time.,Melissa has growth potential.
+Carol Carey,E88952,IT Consultant,"DevOps, Cloud, Architecture",Azure Solutions Architect,9,Sydney,Melissa has shown strong technical skills.,Natalie delivers results on time.
+Lisa Clark,E67860,UI/UX Designer,"Figma, Wireframing, Sketch",Google UX Certification,19,Hyderabad,Jean brings innovative solutions.,Richard has shown strong technical skills.
+Chad Price,E74785,Tester,"Selenium, Manual Testing",ISTQB,23,Paris,Nicole has shown strong technical skills.,Annette shows great ownership.
+Tanya Miller,E86787,AI Engineer,"NLP, LLMs, Deep Learning",Azure AI Engineer,21,Delhi,Brianna provides consistent quality work.,Matthew has growth potential.
+Joy Castillo,E75099,Associate Consultant,"Client Interaction, Documentation",PMP Associate,23,Amsterdam,Cristian delivers results on time.,Marissa delivers results on time.
+Matthew Kennedy Jr.,E18901,Associate Consultant,"Documentation, Client Interaction",PMP Associate,20,Manchester,Amber provides consistent quality work.,Erik mentors junior staff effectively.
+Sandra Thomas,E15439,Lead Data Scientist,"Project Leadership, Mentoring",AWS ML Specialty,12,San Francisco,Casey mentors junior staff effectively.,Casey collaborates well across teams.
+Troy Hawkins,E12906,Data Scientist,"EDA, Pandas, Sklearn",IBM Data Science Professional,19,Chennai,Joseph needs improvement in communication.,Jerry has growth potential.
+Charles Cain,E69372,IT Consultant,"Cloud, DevOps, Architecture",Azure Solutions Architect,23,San Francisco,Dillon provides consistent quality work.,Michelle has growth potential.
+Breanna Hansen,E36271,Data Scientist,"Pandas, Sklearn, EDA",IBM Data Science Professional,21,Brisbane,Adrian mentors junior staff effectively.,Michelle has shown strong technical skills.
+Nicole Henry,E28999,Senior Data Scientist,"Statistics, Python, ML Algorithms",Azure Data Scientist Associate,21,New York,Hannah has growth potential.,Sarah provides consistent quality work.
+Shelly Cooper,E71368,Lead Data Scientist,"Project Leadership, ML Models",AWS ML Specialty,4,Chicago,Connor mentors junior staff effectively.,Adam needs improvement in communication.
+Ryan Collins,E71712,Project Manager,"Planning, Scrum, Agile",PMP,9,Pune,Jeffrey is a proactive team member.,Tyler needs improvement in communication.
+Katrina Peterson,E44303,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,11,Amsterdam,Chris needs improvement in communication.,Ashley brings innovative solutions.
+Jacob James,E26713,Lead Data Scientist,"Project Leadership, Mentoring",AWS ML Specialty,15,Pune,Katherine brings innovative solutions.,Jesse collaborates well across teams.
+Natalie Castillo,E63757,Lead Data Scientist,"ML Models, Project Leadership, Mentoring",AWS ML Specialty,5,Delhi,Nicole is a proactive team member.,Michael has growth potential.
+Carl Osborne,E95797,Data Scientist,"Pandas, Sklearn, EDA",IBM Data Science Professional,2,New York,Richard provides consistent quality work.,Vincent delivers results on time.
+Matthew Brooks,E46511,Machine Learning Engineer,"Python, MLOps",TensorFlow Developer Certificate,5,Mumbai,Ruth has shown strong technical skills.,Ryan brings innovative solutions.
+James Miranda,E69288,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,9,Munich,Victoria delivers results on time.,Michelle shows great ownership.
+Eddie Griffin,E11946,Data Scientist,"Pandas, EDA",IBM Data Science Professional,24,Sydney,Maurice mentors junior staff effectively.,John has growth potential.
+Tyler Porter,E75669,Tester,"Manual Testing, Selenium, Automation",ISTQB,8,Delhi,Daniel delivers results on time.,Patrick shows great ownership.
+Jose Whitney,E31720,Associate Consultant,"Documentation, Client Interaction",PMP Associate,23,Paris,Tiffany is a proactive team member.,Ariel has growth potential.
+Megan Shaw,E12140,Data Scientist,"Pandas, Sklearn",IBM Data Science Professional,21,Chicago,Tommy needs improvement in communication.,Leonard mentors junior staff effectively.
+Anna Stewart,E40084,Data Scientist,"EDA, Sklearn, Pandas",IBM Data Science Professional,21,Mumbai,Patricia provides consistent quality work.,Jeremy collaborates well across teams.
+Victoria Johnston,E47131,IT Engineer,"Hardware Support, Networking, Linux",CompTIA A+,24,Brisbane,Billy brings innovative solutions.,Clayton mentors junior staff effectively.
+Gabriel Wilson,E34445,Associate Consultant,"Documentation, Client Interaction",PMP Associate,12,Birmingham,Laura provides consistent quality work.,Michael mentors junior staff effectively.
+Andrew Reyes,E12754,IT Engineer,"Networking, Linux",CompTIA A+,13,Amsterdam,Adam brings innovative solutions.,Darren has growth potential.
+Taylor Gonzalez,E14315,UI/UX Designer,"Sketch, Wireframing, Figma",Google UX Certification,1,Sydney,Joyce provides consistent quality work.,James needs improvement in communication.
+Steven Mathis,E74271,Developer,"APIs, Java",Oracle Certified Java Developer,20,Brisbane,Carl needs improvement in communication.,Gregory has shown strong technical skills.
+Timothy Reyes,E12991,Lead Data Scientist,"ML Models, Mentoring, Project Leadership",AWS ML Specialty,20,New York,Lindsay collaborates well across teams.,Ryan shows great ownership.
+Preston Gilbert,E47165,Product Manager,"Roadmapping, Strategy",PMI-ACP,13,Barcelona,Joseph collaborates well across teams.,Brandi collaborates well across teams.
+Samantha Byrd,E47117,IT Engineer,"Networking, Linux, Hardware Support",CompTIA A+,22,Birmingham,Danielle delivers results on time.,Caitlin collaborates well across teams.
+Tony Espinoza,E61758,Lead Data Scientist,"Mentoring, ML Models, Project Leadership",AWS ML Specialty,19,Barcelona,Joshua delivers results on time.,Heather brings innovative solutions.
+Mary Gray,E65635,IT Infrastructure Services,"Server Management, Cloud Services, Networking",Cisco CCNA,11,Melbourne,Ashley collaborates well across teams.,Donna is a proactive team member.
+Jordan Martinez,E30446,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,6,Amsterdam,Daniel is a proactive team member.,Rhonda needs improvement in communication.
+Steven Harrison,E11299,Associate Consultant,"Documentation, Client Interaction",PMP Associate,13,Manchester,Spencer mentors junior staff effectively.,Matthew has growth potential.
+James Cunningham,E30892,IT Infrastructure Services,"Networking, Cloud Services, Server Management",AWS SysOps,24,New York,Matthew mentors junior staff effectively.,Lynn mentors junior staff effectively.
+David Castillo,E14234,Data Scientist,"Sklearn, EDA, Pandas",IBM Data Science Professional,25,Barcelona,Savannah mentors junior staff effectively.,Andrew needs improvement in communication.
+Abigail Sullivan,E93046,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,14,Bangalore,Kathryn is a proactive team member.,Sean has shown strong technical skills.
+David Alvarez,E10926,Senior Data Scientist,"Python, Statistics, ML Algorithms",Azure Data Scientist Associate,20,Bangalore,Jeremy delivers results on time.,Justin provides consistent quality work.
+Linda Noble,E71568,Associate Consultant,"Client Interaction, Documentation",PMP Associate,4,Hyderabad,Tanya has shown strong technical skills.,Alexandra provides consistent quality work.
+Elijah Holmes,E36446,Tester,"Automation, Selenium",ISTQB,4,Birmingham,Emily shows great ownership.,Sophia has growth potential.
+Andrew Berg,E80760,Associate Consultant,"Client Interaction, Documentation",PMP Associate,17,Chennai,Linda has shown strong technical skills.,Katie has growth potential.
+Michael Jenkins,E82488,IT Infrastructure Services,"Networking, Server Management",AWS SysOps,17,San Francisco,James has growth potential.,Peter provides consistent quality work.
+Rebecca Woodward,E61431,Product Owner,"Scrum, Backlog Management",CSPO,20,Chicago,Pam brings innovative solutions.,Evelyn mentors junior staff effectively.
+Misty White,E76244,Senior Data Scientist,"Statistics, ML Algorithms, Python",Azure Data Scientist Associate,9,Sydney,Sandra delivers results on time.,Jennifer delivers results on time.
+Jessica Schultz,E74166,Tester,"Selenium, Manual Testing, Automation",ISTQB,5,Bangalore,Christine delivers results on time.,Rachel brings innovative solutions.
+Cindy Alexander,E36228,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,11,Sydney,John has shown strong technical skills.,Rebecca provides consistent quality work.
+Kristi Gonzalez,E56218,IT Engineer,"Linux, Networking, Hardware Support",CompTIA A+,2,Barcelona,Bradley brings innovative solutions.,Dennis needs improvement in communication.
+Michael Walker,E14423,Data Scientist,"EDA, Sklearn, Pandas",IBM Data Science Professional,2,Brisbane,Gabrielle has shown strong technical skills.,Michelle brings innovative solutions.
+Jessica Brewer,E11020,Lead Data Scientist,"Project Leadership, ML Models, Mentoring",AWS ML Specialty,17,Barcelona,Vanessa has shown strong technical skills.,Nicole delivers results on time.
+Michael Martin,E36115,Project Manager,"Scrum, Planning",PMP,9,Mumbai,Angela is a proactive team member.,Michael provides consistent quality work.
+Jeffrey Alvarado,E53174,Associate Consultant,"Documentation, Client Interaction",PMP Associate,2,Barcelona,Meghan has growth potential.,Taylor needs improvement in communication.
+Paul Walton,E81662,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,4,Mumbai,Stephanie collaborates well across teams.,Phillip brings innovative solutions.
+Joshua Mcclain,E72900,Associate Consultant,"Documentation, Client Interaction",PMP Associate,20,Birmingham,Janet collaborates well across teams.,Andrew collaborates well across teams.
+Scott Richards,E30165,Associate Consultant,"Documentation, Client Interaction",PMP Associate,9,Hyderabad,Morgan delivers results on time.,Robert provides consistent quality work.
+Aaron Ferrell,E49427,End User Services Manager,"Service Desk, Incident Management",ITIL Certification,6,Chicago,Derek mentors junior staff effectively.,Dawn has growth potential.
+James Medina Jr.,E51999,Lead Data Scientist,"Mentoring, ML Models, Project Leadership",AWS ML Specialty,20,San Francisco,Tara mentors junior staff effectively.,Trevor mentors junior staff effectively.
+Jason Todd,E59206,Machine Learning Engineer,"MLOps, Model Training",TensorFlow Developer Certificate,9,Barcelona,Larry collaborates well across teams.,Julie is a proactive team member.
+Cynthia Faulkner,E64328,End User Services Manager,"ITIL, Service Desk",ITIL Certification,16,Chicago,Anthony has growth potential.,Michelle brings innovative solutions.
+Brittany Green,E71833,Product Owner,"Backlog Management, Scrum",CSPO,20,Austin,Brittney needs improvement in communication.,Joshua mentors junior staff effectively.
+Colleen Cruz,E18740,Lead Data Scientist,"Project Leadership, ML Models",AWS ML Specialty,21,Chennai,William shows great ownership.,Matthew brings innovative solutions.
+Deborah Davis,E30254,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,23,Berlin,Eric needs improvement in communication.,Courtney is a proactive team member.
+Amy Kaiser,E76937,Senior Data Scientist,"Python, Statistics, ML Algorithms",Azure Data Scientist Associate,17,Chennai,Timothy delivers results on time.,Luis has shown strong technical skills.
+Allison Hamilton,E35501,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,3,Paris,Elizabeth has growth potential.,Suzanne is a proactive team member.
+Stacey Wilson,E92427,UI/UX Designer,"Wireframing, Figma, Sketch",Google UX Certification,10,Austin,Russell delivers results on time.,Anthony shows great ownership.
+James Cooper,E15604,Senior Data Scientist,"Statistics, ML Algorithms, Python",Azure Data Scientist Associate,22,New York,Nathaniel provides consistent quality work.,Leah brings innovative solutions.
+Roger Weaver,E10931,Associate Consultant,"Documentation, Client Interaction",PMP Associate,3,London,Matthew mentors junior staff effectively.,Andrea shows great ownership.
+Jon Johnson,E97736,Lead Data Scientist,"Mentoring, Project Leadership, ML Models",AWS ML Specialty,25,London,Michelle needs improvement in communication.,Martin mentors junior staff effectively.
+Zachary Austin,E27937,Developer,"Python, APIs, Java",Oracle Certified Java Developer,11,Melbourne,Robert delivers results on time.,Krystal shows great ownership.
+Kenneth Meyer,E54545,UI/UX Designer,"Sketch, Figma",Google UX Certification,18,Paris,Michelle provides consistent quality work.,Brenda shows great ownership.
+Mr. Richard Reed,E32831,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,12,Delhi,Angela has shown strong technical skills.,Jasmine collaborates well across teams.
+Melissa Hayden MD,E52957,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,22,Barcelona,Chelsea mentors junior staff effectively.,Julie delivers results on time.
+Derrick Kaufman,E83108,Associate Consultant,"Documentation, Client Interaction",PMP Associate,23,Berlin,Michael mentors junior staff effectively.,Zoe has shown strong technical skills.
+Cindy Clayton,E59656,IT Infrastructure Services,"Server Management, Cloud Services",AWS SysOps,22,Chennai,Tonya delivers results on time.,Joshua is a proactive team member.
+Patricia Miller,E29817,Tester,"Automation, Manual Testing",ISTQB,3,Paris,Lori provides consistent quality work.,Kyle has shown strong technical skills.
+Tiffany Johnson,E49600,IT Consultant,"Cloud, DevOps, Architecture",Azure Solutions Architect,21,Pune,Cheryl collaborates well across teams.,Kelly mentors junior staff effectively.
+Michael Werner,E31212,Associate Consultant,"Client Interaction, Documentation",PMP Associate,22,Hyderabad,William brings innovative solutions.,Michael has growth potential.
+Jason Patel,E49621,Lead Data Scientist,"Project Leadership, ML Models, Mentoring",AWS ML Specialty,16,Melbourne,Robert needs improvement in communication.,Christopher has shown strong technical skills.
+Yesenia Thompson,E67668,UI/UX Designer,"Figma, Sketch, Wireframing",Google UX Certification,11,Chennai,John needs improvement in communication.,Samuel needs improvement in communication.
+Amanda Houston,E51216,Product Owner,"Backlog Management, Scrum",CSPO,25,New York,Danielle is a proactive team member.,Joseph provides consistent quality work.
+Mary Stewart,E45597,Associate Consultant,"Client Interaction, Documentation",PMP Associate,6,Delhi,Amy is a proactive team member.,Tiffany shows great ownership.
+Michael Atkinson,E79265,Product Manager,"Analytics, Strategy, Roadmapping",PMI-ACP,11,Birmingham,Heather delivers results on time.,Donald has growth potential.
+Rachel Barnes,E73155,End User Services Manager,"Service Desk, Incident Management",ITIL Certification,5,Delhi,Brandi is a proactive team member.,Jon brings innovative solutions.
+Robert Burns,E97489,Machine Learning Engineer,"Model Training, Python",TensorFlow Developer Certificate,24,Pune,Shane brings innovative solutions.,David collaborates well across teams.
+Joseph Hall,E91212,Product Manager,"Analytics, Roadmapping, Strategy",PMI-ACP,20,Melbourne,Lindsey provides consistent quality work.,Patrick is a proactive team member.
+Eric Summers,E11411,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,19,Barcelona,Rebecca delivers results on time.,Susan brings innovative solutions.
+Paul Fox,E48647,AI Engineer,"LLMs, NLP, Deep Learning",AWS ML Specialty,9,Berlin,David mentors junior staff effectively.,John shows great ownership.
+Jared Ruiz,E53526,Product Owner,"Backlog Management, Scrum",CSPO,23,Mumbai,Sharon needs improvement in communication.,Brian shows great ownership.
+Sarah Howard,E62843,Machine Learning Engineer,"Python, Model Training, MLOps",TensorFlow Developer Certificate,7,Pune,John provides consistent quality work.,Jeffrey needs improvement in communication.
+Charles Arnold,E45478,Developer,"APIs, Java",Oracle Certified Java Developer,4,Birmingham,John needs improvement in communication.,Anthony collaborates well across teams.
+Robert Butler,E25234,Associate Consultant,"Client Interaction, Documentation",PMP Associate,19,Chennai,Nicole delivers results on time.,Sherry provides consistent quality work.
+Justin Ibarra,E94684,IT Consultant,"DevOps, Cloud, Architecture",Azure Solutions Architect,16,Chennai,Bonnie brings innovative solutions.,Gary provides consistent quality work.
+William Evans,E36629,Product Manager,"Strategy, Analytics",PMI-ACP,4,Chennai,Mindy collaborates well across teams.,Laura has shown strong technical skills.
+Mindy Tyler,E27072,IT Consultant,"Architecture, DevOps",Azure Solutions Architect,22,San Francisco,Melanie delivers results on time.,Bryan shows great ownership.
+Jonathan Lewis,E81596,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,2,Sydney,Amanda brings innovative solutions.,Trevor collaborates well across teams.
+Brady Smith,E53371,IT Engineer,"Hardware Support, Linux, Networking",CompTIA A+,16,Amsterdam,Mallory shows great ownership.,Christopher mentors junior staff effectively.
+Victoria Reese,E60281,IT Engineer,"Networking, Hardware Support",CompTIA A+,3,Munich,Shannon mentors junior staff effectively.,Joshua shows great ownership.
+Gregory Foster,E91312,End User Services Manager,"Service Desk, ITIL",ITIL Certification,23,Hyderabad,Jessica collaborates well across teams.,Patricia mentors junior staff effectively.
+David Clark,E47123,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,4,Chennai,Brandon mentors junior staff effectively.,Melissa brings innovative solutions.
+Andrea Griffin,E89536,Machine Learning Engineer,"MLOps, Python",TensorFlow Developer Certificate,20,San Francisco,Shannon delivers results on time.,Kimberly collaborates well across teams.
+Brandy Sims,E49152,End User Services Manager,"Incident Management, Service Desk",ITIL Certification,14,Berlin,William shows great ownership.,Alexander has growth potential.
+Michael Richardson,E65070,UI/UX Designer,"Figma, Sketch, Wireframing",Google UX Certification,3,Melbourne,Tamara has shown strong technical skills.,Warren needs improvement in communication.
+Brandi Mendoza,E95760,Project Manager,"Agile, Scrum",PMP,9,Austin,Jessica provides consistent quality work.,Martha mentors junior staff effectively.
+James Wells,E78051,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,8,Birmingham,Scott is a proactive team member.,Thomas has growth potential.
+Robert Gentry,E54164,Data Scientist,"EDA, Sklearn",IBM Data Science Professional,6,Pune,Michael mentors junior staff effectively.,Dana needs improvement in communication.
+Kenneth Dominguez,E56202,Tester,"Manual Testing, Automation, Selenium",ISTQB,13,Mumbai,Walter has shown strong technical skills.,Emily delivers results on time.
+Sarah Lopez,E63964,Data Scientist,"Pandas, EDA",IBM Data Science Professional,7,San Francisco,Javier shows great ownership.,Wyatt has growth potential.
+Rhonda Holmes,E32222,Tester,"Selenium, Manual Testing",ISTQB,25,Brisbane,Rachel needs improvement in communication.,Kimberly has growth potential.
+Samantha Alvarez,E74697,IT Infrastructure Services,"Networking, Cloud Services",Cisco CCNA,6,Birmingham,Matthew needs improvement in communication.,Ryan has growth potential.
+Matthew Williams,E85351,Machine Learning Engineer,"Model Training, MLOps",TensorFlow Developer Certificate,20,San Francisco,Jessica mentors junior staff effectively.,Tammy has growth potential.
+Benjamin Harris,E86122,IT Engineer,"Linux, Networking, Hardware Support",CompTIA A+,11,Brisbane,Dakota brings innovative solutions.,Jonathan has shown strong technical skills.
+April Russo,E83935,Machine Learning Engineer,"MLOps, Model Training",TensorFlow Developer Certificate,21,Amsterdam,Sheila collaborates well across teams.,Jackson is a proactive team member.
+Vincent Ward,E40599,Lead Data Scientist,"ML Models, Mentoring, Project Leadership",AWS ML Specialty,6,Paris,Lisa shows great ownership.,Albert has growth potential.
+Alice Lawson DVM,E94920,Developer,"APIs, Java",Oracle Certified Java Developer,5,Chicago,Marie collaborates well across teams.,Lance provides consistent quality work.
+Jenna Porter,E38820,Associate Consultant,"Client Interaction, Documentation",PMP Associate,13,New York,Michael delivers results on time.,Michael collaborates well across teams.
+Rachael Lyons,E97875,End User Services Manager,"Incident Management, ITIL, Service Desk",ITIL Certification,20,Melbourne,Kayla is a proactive team member.,Alexis collaborates well across teams.
+Heather Clark,E77227,Project Manager,"Agile, Scrum",PMP,24,Pune,Samantha provides consistent quality work.,James needs improvement in communication.
+Christopher Barrett,E14676,IT Consultant,"Cloud, DevOps",Azure Solutions Architect,11,New York,Cheryl delivers results on time.,William delivers results on time.
+Teresa Callahan,E46137,Lead Data Scientist,"Mentoring, Project Leadership",AWS ML Specialty,6,Chicago,Rebecca needs improvement in communication.,Brian collaborates well across teams.
+Amanda Holland,E26873,Data Scientist,"EDA, Sklearn, Pandas",IBM Data Science Professional,7,Berlin,Sarah collaborates well across teams.,Wayne shows great ownership.
+Gary Hendricks,E84942,IT Engineer,"Hardware Support, Linux",CompTIA A+,6,New York,Sara is a proactive team member.,Christine brings innovative solutions.
+Gina Taylor,E27197,Tester,"Selenium, Automation",ISTQB,1,Austin,Tiffany delivers results on time.,Diane is a proactive team member.
+William Lynch,E38333,Product Manager,"Strategy, Analytics, Roadmapping",PMI-ACP,25,Melbourne,Mark provides consistent quality work.,Paula mentors junior staff effectively.
+Robert Moore,E54200,IT Consultant,"Architecture, DevOps",Azure Solutions Architect,12,New York,Daniel is a proactive team member.,Jonathon mentors junior staff effectively.
+Lisa Fisher,E57077,Tester,"Manual Testing, Automation, Selenium",ISTQB,7,Sydney,Erik collaborates well across teams.,Sandra has shown strong technical skills.
+Melissa Hess,E42956,Product Owner,"Backlog Management, Scrum",CSPO,18,Bangalore,Kim has growth potential.,Daniel collaborates well across teams.
+Sara Francis,E43284,Tester,"Selenium, Automation",ISTQB,4,Berlin,Timothy collaborates well across teams.,Glenda has growth potential.
+Phillip Baker,E33523,Senior Data Scientist,"Statistics, Python",Azure Data Scientist Associate,6,Birmingham,Kristen mentors junior staff effectively.,Cynthia needs improvement in communication.
+Kimberly Jones,E86056,Product Owner,"Scrum, Backlog Management",CSPO,12,London,Blake mentors junior staff effectively.,Alexis brings innovative solutions.
+Brenda Martinez,E28409,Tester,"Selenium, Automation, Manual Testing",ISTQB,25,Manchester,Paul collaborates well across teams.,Tiffany shows great ownership.
+Emily Weiss,E89913,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,2,London,Christopher has shown strong technical skills.,Philip shows great ownership.
+Victoria Williams,E18931,Associate Consultant,"Documentation, Client Interaction",PMP Associate,21,Delhi,Robert collaborates well across teams.,Samantha provides consistent quality work.
+Kyle Ross,E80935,Machine Learning Engineer,"Python, Model Training",TensorFlow Developer Certificate,24,London,Ann has growth potential.,Jacqueline brings innovative solutions.
+Steven Sosa,E42164,IT Engineer,"Hardware Support, Linux",CompTIA A+,18,Amsterdam,Traci delivers results on time.,Brian mentors junior staff effectively.
+Sherry Thomas,E73622,Senior Data Scientist,"Python, Statistics",Azure Data Scientist Associate,11,Pune,Shelly is a proactive team member.,David brings innovative solutions.
+Tyler Rivas,E23481,UI/UX Designer,"Wireframing, Figma, Sketch",Google UX Certification,24,Birmingham,Barbara has growth potential.,Keith provides consistent quality work.
+Jamie Smith,E47546,Project Manager,"Planning, Agile, Scrum",PMP,21,Chicago,Dana mentors junior staff effectively.,Brett has growth potential.
+Andrea Smith,E38805,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,5,Bangalore,Justin has shown strong technical skills.,Kendra shows great ownership.
+Katie Mays,E53879,AI Engineer,"LLMs, Deep Learning, NLP",AWS ML Specialty,21,Melbourne,Danny brings innovative solutions.,Martin brings innovative solutions.
+Erica Thomas,E59177,Senior Data Scientist,"Statistics, Python",Azure Data Scientist Associate,13,Amsterdam,Beth is a proactive team member.,Bryan has growth potential.
+David Rivera,E51190,Tester,"Automation, Manual Testing",ISTQB,5,Bangalore,Todd has growth potential.,Amanda mentors junior staff effectively.
+Ethan Reyes,E95857,IT Consultant,"Cloud, Architecture, DevOps",Azure Solutions Architect,11,Barcelona,Richard mentors junior staff effectively.,Timothy is a proactive team member.
+Benjamin Robinson,E70403,Developer,"APIs, Python, Java",Oracle Certified Java Developer,24,Manchester,Dawn is a proactive team member.,Maria delivers results on time.
+Brittany Jones,E31850,End User Services Manager,"Service Desk, ITIL",ITIL Certification,22,Melbourne,Eric needs improvement in communication.,Patrick shows great ownership.
+Mary Warren,E50906,AI Engineer,"NLP, LLMs, Deep Learning",Azure AI Engineer,8,Chennai,Annette needs improvement in communication.,Michael needs improvement in communication.
+Monica Morales,E28406,Tester,"Manual Testing, Selenium",ISTQB,15,Barcelona,Lisa shows great ownership.,Julie collaborates well across teams.
+Julie Reed,E90792,End User Services Manager,"Incident Management, Service Desk, ITIL",ITIL Certification,18,New York,Kimberly collaborates well across teams.,Benjamin provides consistent quality work.
+William Peterson,E16591,Product Manager,"Strategy, Roadmapping, Analytics",PMI-ACP,18,New York,William has shown strong technical skills.,John brings innovative solutions.
+Brian Graham,E77335,AI Engineer,"LLMs, NLP, Deep Learning",AWS ML Specialty,11,Hyderabad,Christine collaborates well across teams.,Amy brings innovative solutions.
+Ashley Williams,E24212,End User Services Manager,"Incident Management, Service Desk, ITIL",ITIL Certification,1,Mumbai,Michael mentors junior staff effectively.,Sherri shows great ownership.
+Derrick Webb,E77741,Tester,"Automation, Manual Testing",ISTQB,17,New York,Robin mentors junior staff effectively.,Stacey needs improvement in communication.
+Matthew Young,E89090,Data Scientist,"Sklearn, EDA, Pandas",IBM Data Science Professional,25,Paris,Destiny provides consistent quality work.,Julia provides consistent quality work.
+Melinda Boone,E23989,Machine Learning Engineer,"Python, Model Training, MLOps",TensorFlow Developer Certificate,15,Brisbane,Kristen brings innovative solutions.,Eugene mentors junior staff effectively.
+Parker Fox,E33994,IT Engineer,"Networking, Hardware Support, Linux",CompTIA A+,3,Pune,Whitney has growth potential.,Frederick is a proactive team member.
+Dwayne Johns,E57208,AI Engineer,"LLMs, Deep Learning, NLP",AWS ML Specialty,6,New York,Timothy shows great ownership.,Robin is a proactive team member.
+Yvonne Greene,E76098,Product Owner,"Backlog Management, Scrum",CSPO,3,Austin,Theresa is a proactive team member.,Glenn shows great ownership.
+Kenneth Good,E57040,Associate Consultant,"Documentation, Client Interaction",PMP Associate,15,Pune,Ashley needs improvement in communication.,Michelle brings innovative solutions.
+Kayla Myers,E24878,IT Engineer,"Networking, Hardware Support",CompTIA A+,21,Amsterdam,Miguel is a proactive team member.,Kenneth brings innovative solutions.
+Victor Herrera,E98891,End User Services Manager,"ITIL, Incident Management",ITIL Certification,23,Pune,Michelle shows great ownership.,Nicole has shown strong technical skills.
+Cynthia Morgan,E83658,Data Scientist,"Sklearn, Pandas",IBM Data Science Professional,2,Mumbai,Cynthia mentors junior staff effectively.,Marc collaborates well across teams.
+Peter Pierce,E96584,Product Manager,"Roadmapping, Analytics, Strategy",PMI-ACP,9,San Francisco,Amanda needs improvement in communication.,Jennifer is a proactive team member.
+Thomas Castillo,E41205,Product Manager,"Strategy, Roadmapping, Analytics",PMI-ACP,2,Berlin,Heather needs improvement in communication.,Caroline has shown strong technical skills.
+Michelle Davis,E41963,Product Owner,"Backlog Management, Scrum",CSPO,19,Birmingham,Tyler has growth potential.,Jason shows great ownership.
+Jorge Gomez,E33552,Lead Data Scientist,"Mentoring, Project Leadership, ML Models",AWS ML Specialty,22,New York,Richard brings innovative solutions.,Jessica mentors junior staff effectively.
+Tyler Munoz,E61257,IT Engineer,"Linux, Hardware Support",CompTIA A+,20,San Francisco,Frank provides consistent quality work.,Angela delivers results on time.
+Jonathan Barker,E15449,End User Services Manager,"Incident Management, Service Desk",ITIL Certification,5,Chennai,Robert has growth potential.,Leon delivers results on time.
+Taylor Russo,E60979,Lead Data Scientist,"Mentoring, ML Models",AWS ML Specialty,25,Paris,Paul is a proactive team member.,Michelle needs improvement in communication.
+Anthony Bird,E58179,End User Services Manager,"ITIL, Service Desk, Incident Management",ITIL Certification,3,London,Kathryn needs improvement in communication.,Christina brings innovative solutions.
+Ellen Nolan,E29701,AI Engineer,"NLP, Deep Learning",Azure AI Engineer,17,Delhi,Melissa brings innovative solutions.,Timothy provides consistent quality work.
+Michael Barber,E91956,Product Owner,"Scrum, Backlog Management",CSPO,15,Brisbane,Wendy shows great ownership.,Kristy delivers results on time.
+William Bond,E64865,Data Scientist,"Pandas, Sklearn, EDA",IBM Data Science Professional,6,San Francisco,Brandi shows great ownership.,Mark has shown strong technical skills.
+Linda Davis,E58997,Senior Data Scientist,"ML Algorithms, Python, Statistics",Azure Data Scientist Associate,7,Sydney,Anna delivers results on time.,Andrew provides consistent quality work.
+Samantha Blair,E87935,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,5,Mumbai,Christopher shows great ownership.,Brianna collaborates well across teams.
+Carl Mcclain,E16844,Tester,"Automation, Manual Testing, Selenium",ISTQB,23,Amsterdam,Sheri needs improvement in communication.,Sandra collaborates well across teams.
+Sharon Gonzalez,E74710,Project Manager,"Scrum, Planning, Agile",PMP,6,Pune,Kenneth brings innovative solutions.,Regina has shown strong technical skills.
+Courtney Anderson,E91644,Product Manager,"Roadmapping, Analytics, Strategy",PMI-ACP,9,Mumbai,Jeremy shows great ownership.,Tyler brings innovative solutions.
+Nicholas Nelson,E55629,Project Manager,"Scrum, Agile",PMP,23,Chennai,Christian mentors junior staff effectively.,Rachel needs improvement in communication.
+Valerie White,E12035,Senior Data Scientist,"ML Algorithms, Python, Statistics",Azure Data Scientist Associate,8,Amsterdam,Monica collaborates well across teams.,Andre delivers results on time.
+Karen Martinez,E93300,AI Engineer,"Deep Learning, LLMs",AWS ML Specialty,12,Birmingham,Lisa provides consistent quality work.,Joseph delivers results on time.
+Melissa Phelps,E88546,End User Services Manager,"Incident Management, ITIL, Service Desk",ITIL Certification,5,New York,Michelle shows great ownership.,Latoya mentors junior staff effectively.
+April Thomas,E88450,Data Scientist,"Sklearn, Pandas",IBM Data Science Professional,16,Manchester,Jamie is a proactive team member.,Barbara collaborates well across teams.
+Cameron Washington,E79028,IT Consultant,"Architecture, DevOps, Cloud",Azure Solutions Architect,9,Pune,Blake delivers results on time.,Lucas needs improvement in communication.
+Christopher Stewart,E27089,Machine Learning Engineer,"MLOps, Model Training",TensorFlow Developer Certificate,2,Delhi,Nicole delivers results on time.,Jesse mentors junior staff effectively.
+Morgan Leonard,E47167,Machine Learning Engineer,"Model Training, MLOps",TensorFlow Developer Certificate,4,London,Jacob mentors junior staff effectively.,Michael brings innovative solutions.
+Joshua Costa,E78763,Product Owner,"Scrum, Backlog Management",CSPO,11,London,Jeffery provides consistent quality work.,Andrea shows great ownership.
+James Finley,E97740,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,22,Hyderabad,Rebekah provides consistent quality work.,Cody mentors junior staff effectively.
+Michelle Hardin,E55067,Product Owner,"Scrum, Backlog Management",CSPO,13,Austin,Steven is a proactive team member.,Roberto brings innovative solutions.
+Kimberly Juarez,E77679,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,7,San Francisco,Gregory has growth potential.,Casey collaborates well across teams.
+Gabriel Hunt,E15378,UI/UX Designer,"Figma, Sketch",Google UX Certification,14,Paris,Maxwell has shown strong technical skills.,Michelle collaborates well across teams.
+Janet Martinez,E54353,IT Consultant,"Cloud, Architecture",Azure Solutions Architect,8,Pune,Jennifer needs improvement in communication.,Amber collaborates well across teams.
+Andrew Jensen,E36080,Lead Data Scientist,"Project Leadership, Mentoring",AWS ML Specialty,23,Sydney,Zachary has growth potential.,Barbara has shown strong technical skills.
+John Myers,E93184,Senior Data Scientist,"Python, Statistics, ML Algorithms",Azure Data Scientist Associate,19,Bangalore,Christopher provides consistent quality work.,Amanda has shown strong technical skills.
+Michael Curry,E66649,AI Engineer,"Deep Learning, NLP",AWS ML Specialty,11,Delhi,Gary provides consistent quality work.,James mentors junior staff effectively.
+Kyle Russell,E41527,Tester,"Selenium, Manual Testing, Automation",ISTQB,16,Chennai,Paige brings innovative solutions.,Amy needs improvement in communication.
+Colleen Davis,E41196,UI/UX Designer,"Figma, Wireframing",Google UX Certification,16,Munich,Sandy has growth potential.,Cory needs improvement in communication.
+Cory Ray,E42440,Lead Data Scientist,"ML Models, Project Leadership",AWS ML Specialty,6,New York,Danielle has shown strong technical skills.,Ryan shows great ownership.
+Martin Baker,E36459,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,15,Pune,Lauren provides consistent quality work.,Danielle needs improvement in communication.
+Alyssa Reed,E55975,Data Scientist,"Sklearn, EDA, Pandas",IBM Data Science Professional,24,Amsterdam,Kayla has growth potential.,Jamie shows great ownership.
+Vanessa Alexander,E40725,Tester,"Selenium, Automation, Manual Testing",ISTQB,15,Sydney,April collaborates well across teams.,Jason needs improvement in communication.
+David Ruiz,E85932,Machine Learning Engineer,"Model Training, MLOps, Python",TensorFlow Developer Certificate,24,Mumbai,Cassandra provides consistent quality work.,Mary has growth potential.
+Gary Le,E16324,End User Services Manager,"ITIL, Incident Management",ITIL Certification,11,Barcelona,Elizabeth is a proactive team member.,Jennifer has growth potential.
+Ann Martinez,E23915,Data Scientist,"Sklearn, Pandas, EDA",IBM Data Science Professional,2,Austin,Tyler has shown strong technical skills.,Cheyenne provides consistent quality work.
+Crystal Taylor,E92602,End User Services Manager,"Incident Management, Service Desk",ITIL Certification,19,Paris,Sandra collaborates well across teams.,John mentors junior staff effectively.
+Douglas Holmes,E24195,Tester,"Manual Testing, Selenium",ISTQB,8,Birmingham,Cynthia provides consistent quality work.,Jocelyn mentors junior staff effectively.
+Jordan Flores,E36752,Data Scientist,"EDA, Sklearn",IBM Data Science Professional,8,Chennai,Jenny collaborates well across teams.,Michael shows great ownership.
+Cheryl Vang,E42276,Developer,"Java, APIs",Oracle Certified Java Developer,22,Birmingham,Adrienne collaborates well across teams.,Rodney mentors junior staff effectively.
+Jamie Johnson,E82010,IT Consultant,"Architecture, DevOps",Azure Solutions Architect,23,Birmingham,Scott provides consistent quality work.,Keith delivers results on time.
+Kelsey Greer,E50202,IT Infrastructure Services,"Cloud Services, Server Management, Networking",AWS SysOps,11,Barcelona,Tracy has growth potential.,Eric needs improvement in communication.
+Kenneth Baker,E49174,Developer,"Python, APIs",Oracle Certified Java Developer,17,London,Jason mentors junior staff effectively.,Shelly mentors junior staff effectively.
+Thomas Herrera,E52240,Data Scientist,"Pandas, EDA, Sklearn",IBM Data Science Professional,7,Delhi,Sharon needs improvement in communication.,Mary collaborates well across teams.
+John Miller,E31475,Product Owner,"Scrum, Backlog Management",CSPO,8,Brisbane,Michael has growth potential.,Sara brings innovative solutions.
+David Williams,E18673,Data Scientist,"Sklearn, Pandas, EDA",IBM Data Science Professional,17,Brisbane,Michelle mentors junior staff effectively.,Frances is a proactive team member.
+Julie Green,E61516,Data Scientist,"Pandas, EDA",IBM Data Science Professional,14,London,Brenda brings innovative solutions.,Jacqueline collaborates well across teams.
+Carla Garrett,E15325,Data Scientist,"Sklearn, Pandas, EDA",IBM Data Science Professional,5,Amsterdam,Erika has growth potential.,Bianca needs improvement in communication.
+Kelly Blevins,E53541,Associate Consultant,"Client Interaction, Documentation",PMP Associate,8,Barcelona,Debra has shown strong technical skills.,Courtney mentors junior staff effectively.
+Charles Burke,E91297,UI/UX Designer,"Figma, Wireframing",Google UX Certification,23,Mumbai,Katie shows great ownership.,Drew mentors junior staff effectively.
+Brittany Hines,E78956,Machine Learning Engineer,"MLOps, Python",TensorFlow Developer Certificate,2,Pune,Lori is a proactive team member.,Christine has growth potential.
+Douglas Adams,E56439,Data Scientist,"Sklearn, Pandas",IBM Data Science Professional,24,Berlin,Taylor needs improvement in communication.,Kimberly mentors junior staff effectively.
+Wendy Erickson,E17747,Data Scientist,"Sklearn, EDA, Pandas",IBM Data Science Professional,21,Delhi,Donald has growth potential.,Tiffany has growth potential.
+Gary Walsh,E78627,Tester,"Selenium, Automation",ISTQB,9,Melbourne,Peter provides consistent quality work.,Andrew is a proactive team member.
+David Parsons,E98369,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,15,Mumbai,Brittany shows great ownership.,Douglas brings innovative solutions.
+Christy Flores,E67011,AI Engineer,"Deep Learning, NLP",Azure AI Engineer,14,Sydney,Nancy mentors junior staff effectively.,Kathy provides consistent quality work.
+Joseph Krause,E85855,Product Owner,"Scrum, Backlog Management",CSPO,19,Austin,Jennifer mentors junior staff effectively.,Jennifer shows great ownership.
+Virginia Bradshaw,E46571,Machine Learning Engineer,"MLOps, Model Training, Python",TensorFlow Developer Certificate,18,Delhi,Kenneth has shown strong technical skills.,Sean delivers results on time.
+Cynthia Holland,E54296,Associate Consultant,"Client Interaction, Documentation",PMP Associate,21,Austin,Rebecca mentors junior staff effectively.,Kevin has growth potential.
+Jerry Hughes,E78120,End User Services Manager,"Incident Management, ITIL",ITIL Certification,19,London,Dawn shows great ownership.,Brett has shown strong technical skills.
+Dominique Howell,E69721,Tester,"Automation, Manual Testing",ISTQB,18,Bangalore,Rodney brings innovative solutions.,Cheryl collaborates well across teams.
+Kelly Martin,E47052,AI Engineer,"Deep Learning, LLMs",AWS ML Specialty,20,Sydney,Adrian has growth potential.,Daniel is a proactive team member.
+David Washington,E68260,IT Engineer,"Linux, Hardware Support, Networking",CompTIA A+,18,Sydney,Thomas mentors junior staff effectively.,Zachary is a proactive team member.
+Jonathan Sampson,E58031,Product Manager,"Analytics, Roadmapping, Strategy",PMI-ACP,20,New York,George needs improvement in communication.,Alexis shows great ownership.
+Michael Valencia,E10421,Machine Learning Engineer,"MLOps, Python",TensorFlow Developer Certificate,23,Pune,Daniel has shown strong technical skills.,Anthony brings innovative solutions.
+Marco Knapp,E40214,Lead Data Scientist,"Mentoring, ML Models, Project Leadership",AWS ML Specialty,11,Sydney,Mark is a proactive team member.,Kimberly collaborates well across teams.
+Martin Wright,E46498,Data Scientist,"Pandas, EDA, Sklearn",IBM Data Science Professional,8,Sydney,Kathleen mentors junior staff effectively.,Rhonda delivers results on time.
+Michael Gomez,E69136,Associate Consultant,"Client Interaction, Documentation",PMP Associate,13,Chicago,Melinda collaborates well across teams.,Robert is a proactive team member.
+Victoria Grant,E90562,UI/UX Designer,"Wireframing, Sketch, Figma",Google UX Certification,10,Birmingham,Shawn collaborates well across teams.,Cody has shown strong technical skills.
+Kelly Haynes,E21701,Senior Data Scientist,"Python, Statistics, ML Algorithms",Azure Data Scientist Associate,12,Manchester,Diamond needs improvement in communication.,John mentors junior staff effectively.
+Anne Brown,E22991,Machine Learning Engineer,"Model Training, MLOps",TensorFlow Developer Certificate,16,Sydney,Mary shows great ownership.,Carolyn has growth potential.
+Joseph Grant,E78054,Data Scientist,"Pandas, EDA, Sklearn",IBM Data Science Professional,3,London,Erica brings innovative solutions.,Aaron delivers results on time.
+Brandon Mullins,E84241,Developer,"Python, Java, APIs",Oracle Certified Java Developer,2,Pune,Shaun mentors junior staff effectively.,James mentors junior staff effectively.
+Michael Murray,E48590,Product Owner,"Scrum, Backlog Management",CSPO,16,New York,Amy shows great ownership.,Sharon has growth potential.
+Brian Rodriguez,E72892,Senior Data Scientist,"ML Algorithms, Python",Azure Data Scientist Associate,25,London,Jenny shows great ownership.,Larry brings innovative solutions.
+Richard Oneal,E94653,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,9,Barcelona,Curtis provides consistent quality work.,Christina needs improvement in communication.
+Danielle Copeland,E97191,UI/UX Designer,"Wireframing, Figma, Sketch",Google UX Certification,18,Paris,Gabriella has growth potential.,Sean shows great ownership.
+David Gallegos,E73287,Product Owner,"Scrum, Backlog Management",CSPO,12,New York,Gary collaborates well across teams.,Janet is a proactive team member.
+Kristina Smith,E16077,IT Infrastructure Services,"Server Management, Networking",Cisco CCNA,13,Birmingham,David provides consistent quality work.,Kyle needs improvement in communication.
+Jane Scott,E45048,Tester,"Manual Testing, Automation",ISTQB,3,Mumbai,Patrick mentors junior staff effectively.,Steven delivers results on time.
+Kristin Richardson,E30784,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,2,Manchester,Ronald shows great ownership.,Linda brings innovative solutions.
+Tracy Morrison,E94671,UI/UX Designer,"Figma, Wireframing",Google UX Certification,21,Melbourne,Justin collaborates well across teams.,William mentors junior staff effectively.
+Samuel Mclaughlin,E74797,End User Services Manager,"Service Desk, Incident Management, ITIL",ITIL Certification,24,San Francisco,Nicole has growth potential.,Jennifer needs improvement in communication.
+Don Martin,E98939,Product Owner,"Backlog Management, Scrum",CSPO,6,Austin,Natasha has shown strong technical skills.,Rachel has shown strong technical skills.
+Alexander Wells,E64321,Machine Learning Engineer,"Python, MLOps, Model Training",TensorFlow Developer Certificate,12,Chicago,Kristina has shown strong technical skills.,Jacqueline delivers results on time.
+Alisha Garcia,E63540,IT Infrastructure Services,"Cloud Services, Server Management",AWS SysOps,8,Mumbai,Jessica is a proactive team member.,Lori is a proactive team member.
+Robert Bean,E40598,End User Services Manager,"Service Desk, Incident Management, ITIL",ITIL Certification,15,Bangalore,Carolyn has shown strong technical skills.,Andrea collaborates well across teams.
+Jason Owens,E44712,IT Engineer,"Hardware Support, Linux, Networking",CompTIA A+,12,Austin,Stephanie mentors junior staff effectively.,Scott brings innovative solutions.
+Keith Jones,E18213,IT Infrastructure Services,"Server Management, Cloud Services, Networking",Cisco CCNA,5,Birmingham,Victoria brings innovative solutions.,Donna needs improvement in communication.
+Melissa Everett,E19924,IT Consultant,"DevOps, Cloud, Architecture",Azure Solutions Architect,21,Amsterdam,Richard needs improvement in communication.,Joshua has growth potential.
+Alexander Woods,E47540,Developer,"Java, Python, APIs",Oracle Certified Java Developer,19,Paris,Julia needs improvement in communication.,Jocelyn shows great ownership.
+Luis Decker,E23348,Product Manager,"Roadmapping, Analytics, Strategy",PMI-ACP,23,Amsterdam,Michelle provides consistent quality work.,Kayla is a proactive team member.
+Michael Miles,E94818,Lead Data Scientist,"Mentoring, ML Models",AWS ML Specialty,12,Melbourne,Caleb delivers results on time.,Benjamin brings innovative solutions.
+Mason James,E60830,Data Scientist,"EDA, Pandas, Sklearn",IBM Data Science Professional,13,Sydney,Deanna delivers results on time.,Kathleen needs improvement in communication.
+Diane Bonilla,E54176,IT Infrastructure Services,"Cloud Services, Networking, Server Management",Cisco CCNA,12,Chennai,Angela delivers results on time.,Courtney brings innovative solutions.
+Megan Moore,E64427,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,14,Pune,Emily shows great ownership.,Ryan delivers results on time.
+Michelle Dickson,E28293,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,1,Chennai,Vickie brings innovative solutions.,Mary brings innovative solutions.
+Lindsay Harrison,E26028,IT Consultant,"DevOps, Cloud, Architecture",Azure Solutions Architect,21,Munich,Mike provides consistent quality work.,Robert needs improvement in communication.
+Maria Jackson,E69632,End User Services Manager,"Service Desk, Incident Management, ITIL",ITIL Certification,7,Barcelona,Benjamin provides consistent quality work.,Scott needs improvement in communication.
+Austin Perez,E58689,Senior Data Scientist,"Python, ML Algorithms",Azure Data Scientist Associate,11,Amsterdam,Mark is a proactive team member.,Nicholas brings innovative solutions.
+Brittney Underwood,E63835,Associate Consultant,"Documentation, Client Interaction",PMP Associate,16,Munich,Tyler brings innovative solutions.,Cesar is a proactive team member.
+Tony Johnson,E13037,Senior Data Scientist,"Python, ML Algorithms",Azure Data Scientist Associate,8,Berlin,Deborah is a proactive team member.,Harold has shown strong technical skills.
+Victoria Hull,E23041,Data Scientist,"Pandas, Sklearn, EDA",IBM Data Science Professional,1,Munich,Samuel is a proactive team member.,Ryan provides consistent quality work.
+Jeremiah Rubio,E31772,IT Consultant,"DevOps, Cloud",Azure Solutions Architect,7,Mumbai,Benjamin has growth potential.,Timothy is a proactive team member.
+Ashley Wilson,E71690,Product Manager,"Analytics, Strategy, Roadmapping",PMI-ACP,20,Amsterdam,Lisa has growth potential.,Justin has shown strong technical skills.
+Elizabeth Johnson,E85419,Associate Consultant,"Documentation, Client Interaction",PMP Associate,9,London,Lori needs improvement in communication.,Martin is a proactive team member.
+Anthony Curtis,E52909,IT Infrastructure Services,"Server Management, Networking, Cloud Services",Cisco CCNA,19,San Francisco,Maria needs improvement in communication.,Jeffrey delivers results on time.
+Madeline Kelley,E79932,Machine Learning Engineer,"MLOps, Model Training",TensorFlow Developer Certificate,13,Sydney,Jamie has shown strong technical skills.,Nancy provides consistent quality work.
+Andrew Frost,E61998,Senior Data Scientist,"ML Algorithms, Python",Azure Data Scientist Associate,4,Brisbane,Miguel collaborates well across teams.,Kenneth brings innovative solutions.
+Andrew Williams,E62313,Senior Data Scientist,"Python, ML Algorithms, Statistics",Azure Data Scientist Associate,15,Austin,Nancy needs improvement in communication.,Miranda has shown strong technical skills.
+Brad Taylor,E11662,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,8,Barcelona,Stacey collaborates well across teams.,Ann brings innovative solutions.
+Angela Jones,E12208,Tester,"Selenium, Automation",ISTQB,7,New York,Kimberly has shown strong technical skills.,Darrell needs improvement in communication.
+Taylor Reynolds,E40857,Associate Consultant,"Documentation, Client Interaction",PMP Associate,8,Barcelona,Darin has growth potential.,Jennifer shows great ownership.
+Jonathan Barron,E27221,End User Services Manager,"Incident Management, Service Desk, ITIL",ITIL Certification,15,Brisbane,Amber needs improvement in communication.,Devon has growth potential.
+Samuel Dixon,E28398,Product Owner,"Backlog Management, Scrum",CSPO,25,San Francisco,Christopher collaborates well across teams.,William mentors junior staff effectively.
+Shawn Wright,E69104,Senior Data Scientist,"Python, Statistics, ML Algorithms",Azure Data Scientist Associate,9,London,Jessica collaborates well across teams.,Virginia shows great ownership.
+Kelsey Nguyen,E54923,IT Infrastructure Services,"Server Management, Networking, Cloud Services",AWS SysOps,12,Barcelona,Holly shows great ownership.,Amy has shown strong technical skills.
+Dana Steele,E80099,Developer,"APIs, Python, Java",Oracle Certified Java Developer,21,Barcelona,Elijah shows great ownership.,Richard has shown strong technical skills.
+Helen Campbell,E98968,Senior Data Scientist,"ML Algorithms, Python, Statistics",Azure Data Scientist Associate,18,Austin,Michael is a proactive team member.,Nathaniel brings innovative solutions.
+Charles Yang,E87578,End User Services Manager,"Incident Management, ITIL, Service Desk",ITIL Certification,10,Berlin,Heather has growth potential.,Denise needs improvement in communication.
+Brian Burns,E38502,Product Owner,"Backlog Management, Scrum",CSPO,9,San Francisco,Timothy brings innovative solutions.,David is a proactive team member.
+Ruth Brennan,E99842,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,16,Brisbane,Gerald provides consistent quality work.,Diane has growth potential.
+Erica Galloway,E48499,IT Engineer,"Linux, Hardware Support",CompTIA A+,24,Melbourne,Cody needs improvement in communication.,Laura mentors junior staff effectively.
+David Lopez,E34694,Senior Data Scientist,"Statistics, ML Algorithms, Python",Azure Data Scientist Associate,25,Sydney,Darrell provides consistent quality work.,Emily provides consistent quality work.
+Robert Hammond,E59971,IT Consultant,"DevOps, Architecture",Azure Solutions Architect,24,Delhi,Susan mentors junior staff effectively.,Kim needs improvement in communication.
+Kristin Johnson MD,E17147,End User Services Manager,"Service Desk, ITIL, Incident Management",ITIL Certification,16,Chicago,Phillip mentors junior staff effectively.,Tammy needs improvement in communication.
+Devin Marsh,E58710,Product Owner,"Backlog Management, Scrum",CSPO,4,Munich,Samantha delivers results on time.,Brandon provides consistent quality work.
+Dr. Whitney Wong,E89939,Project Manager,"Planning, Scrum, Agile",PMP,22,Chennai,Alan has shown strong technical skills.,Erika delivers results on time.
+William Frederick,E43747,Developer,"APIs, Java",Oracle Certified Java Developer,24,Chicago,Michelle has growth potential.,Jeanne brings innovative solutions.
+Timothy Carson,E75946,Tester,"Manual Testing, Selenium, Automation",ISTQB,14,London,Cynthia provides consistent quality work.,George has growth potential.
+Keith Watkins,E41991,Product Owner,"Scrum, Backlog Management",CSPO,18,New York,Ricky needs improvement in communication.,Lisa shows great ownership.
+Deanna Johnson,E32622,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,24,Mumbai,Catherine brings innovative solutions.,Mark brings innovative solutions.
+Cynthia Dunn,E29792,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,6,Birmingham,James mentors junior staff effectively.,Tammy has growth potential.
+Nicole Macdonald,E30980,UI/UX Designer,"Wireframing, Figma",Google UX Certification,15,Bangalore,Shawn has shown strong technical skills.,Amy has growth potential.
+Manuel Cook,E54015,Senior Data Scientist,"Python, Statistics, ML Algorithms",Azure Data Scientist Associate,24,Birmingham,Lynn provides consistent quality work.,Michael provides consistent quality work.
+Alice Cox,E21679,Product Manager,"Analytics, Roadmapping, Strategy",PMI-ACP,4,Munich,Timothy mentors junior staff effectively.,Rachel has shown strong technical skills.
+Morgan Fields,E15450,Senior Data Scientist,"Python, Statistics",Azure Data Scientist Associate,16,Melbourne,Rachel collaborates well across teams.,Jenny brings innovative solutions.
+Tammie Duran,E11778,Product Owner,"Backlog Management, Scrum",CSPO,15,London,Alexis provides consistent quality work.,Misty provides consistent quality work.
+Paul Gutierrez,E66428,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,16,Bangalore,Philip needs improvement in communication.,Eric is a proactive team member.
+Zachary Wilcox,E10168,Project Manager,"Agile, Planning",PMP,22,Delhi,Jillian has shown strong technical skills.,Dawn collaborates well across teams.
+Arthur Cantu,E79250,IT Consultant,"Cloud, DevOps",Azure Solutions Architect,4,London,Rebekah brings innovative solutions.,Aaron has growth potential.
+Nicole Garcia,E98549,IT Engineer,"Linux, Hardware Support, Networking",CompTIA A+,17,Delhi,Eric has shown strong technical skills.,Gregory has growth potential.
+Steven Fisher,E91100,Developer,"Java, APIs",Oracle Certified Java Developer,15,Paris,Amanda has growth potential.,Roger delivers results on time.
+David Edwards,E96198,Machine Learning Engineer,"Python, Model Training, MLOps",TensorFlow Developer Certificate,25,Chennai,Johnny shows great ownership.,Justin delivers results on time.
+Allison Pineda,E97441,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,16,Chicago,Willie is a proactive team member.,Wayne provides consistent quality work.
+Nicholas Juarez,E89841,Associate Consultant,"Documentation, Client Interaction",PMP Associate,14,Bangalore,Jennifer delivers results on time.,Tammy needs improvement in communication.
+Bradley Yates,E20038,Machine Learning Engineer,"Model Training, MLOps",TensorFlow Developer Certificate,14,Birmingham,Jennifer needs improvement in communication.,Anthony mentors junior staff effectively.
+Robert Vaughan MD,E56324,Developer,"Python, APIs, Java",Oracle Certified Java Developer,4,Paris,Thomas provides consistent quality work.,Sean shows great ownership.
+Michele Wells,E35623,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,2,Melbourne,Jackson brings innovative solutions.,Brenda has growth potential.
+Henry Parker,E14342,AI Engineer,"LLMs, Deep Learning, NLP",Azure AI Engineer,11,Mumbai,Carl provides consistent quality work.,Connor has shown strong technical skills.
+Jody Anderson,E21598,IT Infrastructure Services,"Server Management, Networking",AWS SysOps,9,Barcelona,Sarah needs improvement in communication.,Leslie delivers results on time.
+Michael Moore,E69198,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,23,Delhi,Kimberly brings innovative solutions.,Megan provides consistent quality work.
+Michael Cummings DVM,E19539,Associate Consultant,"Documentation, Client Interaction",PMP Associate,5,Delhi,Kimberly needs improvement in communication.,Michael needs improvement in communication.
+Jennifer Nichols,E43131,Machine Learning Engineer,"Model Training, Python",TensorFlow Developer Certificate,9,Chennai,Paula has shown strong technical skills.,Cole has shown strong technical skills.
+Kathy Thomas,E91098,IT Consultant,"Cloud, Architecture",Azure Solutions Architect,7,Birmingham,Sarah provides consistent quality work.,James shows great ownership.
+John Berry,E57512,Tester,"Selenium, Manual Testing, Automation",ISTQB,21,Paris,Brent provides consistent quality work.,Courtney delivers results on time.
+Kristine Miller,E61146,UI/UX Designer,"Wireframing, Figma, Sketch",Google UX Certification,8,Amsterdam,Michael shows great ownership.,David is a proactive team member.
+Jacob Rivera,E89260,Lead Data Scientist,"Project Leadership, Mentoring, ML Models",AWS ML Specialty,6,Mumbai,Nicole brings innovative solutions.,Claudia shows great ownership.
+Matthew Davies,E82987,Developer,"Python, Java, APIs",Oracle Certified Java Developer,16,Delhi,Michael needs improvement in communication.,Kaylee shows great ownership.
+Karen Sullivan,E87317,Machine Learning Engineer,"MLOps, Model Training, Python",TensorFlow Developer Certificate,22,Hyderabad,Jason is a proactive team member.,Robert provides consistent quality work.
+John Caldwell,E71377,End User Services Manager,"Service Desk, Incident Management",ITIL Certification,9,New York,Olivia has shown strong technical skills.,Dustin has shown strong technical skills.
+Pamela Fuller,E39353,Developer,"APIs, Python",Oracle Certified Java Developer,20,Amsterdam,James shows great ownership.,Charles is a proactive team member.
+Frank Carter,E98309,Product Owner,"Backlog Management, Scrum",CSPO,8,Austin,Lisa brings innovative solutions.,Matthew brings innovative solutions.
+William Bush,E65002,Associate Consultant,"Documentation, Client Interaction",PMP Associate,9,Amsterdam,Linda has growth potential.,Tyler needs improvement in communication.
+Kevin Wallace,E29883,Machine Learning Engineer,"Python, MLOps",TensorFlow Developer Certificate,8,Mumbai,Louis is a proactive team member.,Christopher provides consistent quality work.
+Dominic Kelly,E69325,Associate Consultant,"Client Interaction, Documentation",PMP Associate,21,Chicago,Jennifer has growth potential.,Darryl has shown strong technical skills.
+Peter Collins,E72463,Product Manager,"Analytics, Strategy",PMI-ACP,12,Paris,Melissa mentors junior staff effectively.,Michelle provides consistent quality work.
+Matthew Fowler,E40591,AI Engineer,"LLMs, NLP, Deep Learning",AWS ML Specialty,16,Delhi,Geoffrey has shown strong technical skills.,Angela collaborates well across teams.
+David Marquez,E95121,IT Consultant,"Architecture, Cloud",Azure Solutions Architect,12,Barcelona,Paula has growth potential.,Peggy shows great ownership.
+James Davis,E91063,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,4,Sydney,Steven provides consistent quality work.,Elizabeth shows great ownership.
+Amy Rodriguez,E87028,Machine Learning Engineer,"Model Training, Python",TensorFlow Developer Certificate,22,Melbourne,Crystal has growth potential.,Mary collaborates well across teams.
+Anna Miller,E75857,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,24,Birmingham,Beverly shows great ownership.,Jay is a proactive team member.
+Elizabeth Mckenzie,E81070,Machine Learning Engineer,"MLOps, Python, Model Training",TensorFlow Developer Certificate,21,Bangalore,Rachel shows great ownership.,Amanda provides consistent quality work.
+Pamela Sims,E42766,IT Engineer,"Hardware Support, Linux",CompTIA A+,4,Chicago,Deborah brings innovative solutions.,Richard collaborates well across teams.
+Cassandra Martin,E28686,Senior Data Scientist,"Python, Statistics, ML Algorithms",Azure Data Scientist Associate,8,Bangalore,Jennifer brings innovative solutions.,Jason shows great ownership.
+Stephanie Howard,E24894,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,2,Sydney,Jill has growth potential.,Misty mentors junior staff effectively.
+Ann Black,E41172,AI Engineer,"LLMs, Deep Learning",AWS ML Specialty,24,San Francisco,Laura delivers results on time.,Whitney mentors junior staff effectively.
+Anthony Bailey,E23650,Product Manager,"Roadmapping, Strategy",PMI-ACP,18,Pune,Victor brings innovative solutions.,Sarah brings innovative solutions.
+Thomas Gonzales,E50629,IT Engineer,"Hardware Support, Linux",CompTIA A+,9,New York,Cory collaborates well across teams.,Karen mentors junior staff effectively.
+Cesar Young,E92098,Developer,"Java, APIs",Oracle Certified Java Developer,18,Mumbai,Amy has growth potential.,Donna delivers results on time.
+Leah Walsh,E96780,Machine Learning Engineer,"Model Training, MLOps",TensorFlow Developer Certificate,21,Birmingham,Timothy provides consistent quality work.,William mentors junior staff effectively.
+Debra Phillips,E41279,Product Owner,"Scrum, Backlog Management",CSPO,5,Chennai,Cindy mentors junior staff effectively.,Christy has growth potential.
+Craig Kelley,E50116,Project Manager,"Scrum, Agile, Planning",PMP,5,Manchester,Martha shows great ownership.,Larry delivers results on time.
+Anthony Moreno,E39172,Product Manager,"Analytics, Strategy, Roadmapping",PMI-ACP,21,New York,Allison shows great ownership.,Cheyenne delivers results on time.
+Mary Berg,E59386,Lead Data Scientist,"Mentoring, Project Leadership, ML Models",AWS ML Specialty,19,Berlin,Lonnie is a proactive team member.,Laura shows great ownership.
+Gary Snyder,E64071,IT Infrastructure Services,"Networking, Cloud Services",AWS SysOps,6,Hyderabad,April is a proactive team member.,Joan mentors junior staff effectively.
+Oscar Drake,E12928,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,14,San Francisco,Aaron needs improvement in communication.,Anna needs improvement in communication.
+Charles Pitts,E88984,Associate Consultant,"Documentation, Client Interaction",PMP Associate,18,Chennai,Brian provides consistent quality work.,Rebecca has shown strong technical skills.
+Pamela Leonard,E69326,Machine Learning Engineer,"Model Training, MLOps",TensorFlow Developer Certificate,21,Berlin,Katherine brings innovative solutions.,Jessica collaborates well across teams.
+Heather Reyes,E18862,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,5,Chennai,Debra mentors junior staff effectively.,Alyssa mentors junior staff effectively.
+Isabel Barnes,E41375,UI/UX Designer,"Sketch, Wireframing",Google UX Certification,25,Melbourne,Philip provides consistent quality work.,Bernard is a proactive team member.
+Laura Blackwell,E97551,Product Manager,"Strategy, Analytics",PMI-ACP,6,Chicago,Joann shows great ownership.,Robert shows great ownership.
+Amy Fields,E68644,IT Consultant,"Architecture, DevOps, Cloud",Azure Solutions Architect,17,Manchester,Sarah collaborates well across teams.,Patricia provides consistent quality work.
+Douglas Phillips,E51428,AI Engineer,"Deep Learning, NLP",Azure AI Engineer,16,Munich,Olivia delivers results on time.,Matthew is a proactive team member.
+Gary Adams,E34323,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,6,Sydney,Molly provides consistent quality work.,Scott is a proactive team member.
+Jennifer Rogers,E55814,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,11,Hyderabad,Richard mentors junior staff effectively.,Patricia collaborates well across teams.
+Michael Lewis,E74224,Developer,"APIs, Python, Java",Oracle Certified Java Developer,24,Delhi,Regina is a proactive team member.,Steven delivers results on time.
+Jeffrey Singh,E84100,Product Owner,"Scrum, Backlog Management",CSPO,18,Delhi,Melissa mentors junior staff effectively.,Lisa collaborates well across teams.
+Walter Woods,E48136,Data Scientist,"Sklearn, Pandas, EDA",IBM Data Science Professional,23,San Francisco,Stephanie collaborates well across teams.,George brings innovative solutions.
+Cheryl Booth,E20780,IT Infrastructure Services,"Networking, Server Management",Cisco CCNA,24,Bangalore,Joseph mentors junior staff effectively.,Mary provides consistent quality work.
+Scott Stanley,E88749,AI Engineer,"NLP, LLMs",Azure AI Engineer,7,Chennai,David provides consistent quality work.,Sharon shows great ownership.
+Clinton Anthony,E30364,Data Scientist,"Sklearn, EDA",IBM Data Science Professional,22,San Francisco,Brian mentors junior staff effectively.,Benjamin collaborates well across teams.
+Ann Francis,E94868,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,11,Hyderabad,Cody delivers results on time.,Sheila needs improvement in communication.
+Justin Lucas,E26872,Product Manager,"Analytics, Roadmapping, Strategy",PMI-ACP,18,Chennai,Michael has growth potential.,Cody collaborates well across teams.
+George Macdonald II,E89862,Developer,"Python, APIs",Oracle Certified Java Developer,18,Melbourne,Jeffrey is a proactive team member.,Carla is a proactive team member.
+Dustin Taylor,E90221,AI Engineer,"NLP, Deep Learning, LLMs",Azure AI Engineer,21,Amsterdam,Mary collaborates well across teams.,Cody provides consistent quality work.
+Teresa Anderson,E32951,Product Manager,"Strategy, Roadmapping",PMI-ACP,4,Paris,Sandy is a proactive team member.,Joseph needs improvement in communication.
+Erika Griffin,E18334,Tester,"Manual Testing, Selenium",ISTQB,7,San Francisco,Jennifer collaborates well across teams.,Amy has growth potential.
+Jennifer Brown,E20745,Lead Data Scientist,"ML Models, Project Leadership, Mentoring",AWS ML Specialty,4,Berlin,Matthew brings innovative solutions.,Nicole is a proactive team member.
+Tammy Lawrence,E16372,Developer,"Python, Java, APIs",Oracle Certified Java Developer,12,Austin,Mark mentors junior staff effectively.,Timothy delivers results on time.
+David Savage Jr.,E96067,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,4,London,Martin delivers results on time.,Tiffany shows great ownership.
+Terri Smith,E69477,Product Manager,"Roadmapping, Strategy",PMI-ACP,16,Chennai,Lisa needs improvement in communication.,Connie brings innovative solutions.
+Morgan Cooke,E21225,IT Infrastructure Services,"Networking, Server Management, Cloud Services",AWS SysOps,4,Chicago,Matthew is a proactive team member.,Julie mentors junior staff effectively.
+Melissa Moody,E49265,Product Owner,"Backlog Management, Scrum",CSPO,2,Mumbai,Lori shows great ownership.,Joseph delivers results on time.
+Jared Johnson,E96582,Tester,"Manual Testing, Automation",ISTQB,4,Barcelona,Rebecca has growth potential.,Lisa needs improvement in communication.
+Robert Rivera,E76092,IT Consultant,"DevOps, Architecture, Cloud",Azure Solutions Architect,20,Paris,Catherine collaborates well across teams.,Tracy needs improvement in communication.
+Lee Solomon,E98855,IT Consultant,"Architecture, Cloud",Azure Solutions Architect,24,Pune,Robert mentors junior staff effectively.,Anthony needs improvement in communication.
+Tiffany Aguirre,E83060,IT Infrastructure Services,"Server Management, Cloud Services, Networking",Cisco CCNA,10,Hyderabad,Eric delivers results on time.,Robert is a proactive team member.
+Sharon Kane,E16594,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,24,Bangalore,Sandra has shown strong technical skills.,Darlene delivers results on time.
+Jason Chung,E90498,Data Scientist,"Pandas, Sklearn, EDA",IBM Data Science Professional,20,Amsterdam,David has growth potential.,Sarah has growth potential.
+Kevin Li,E40576,End User Services Manager,"Service Desk, ITIL",ITIL Certification,10,Amsterdam,Christopher provides consistent quality work.,Daniel delivers results on time.
+Tanner Cordova,E88449,Product Manager,"Analytics, Roadmapping, Strategy",PMI-ACP,18,Chennai,Destiny shows great ownership.,James delivers results on time.
+Jamie Baker,E88920,End User Services Manager,"ITIL, Service Desk",ITIL Certification,9,Brisbane,Brittany shows great ownership.,Scott shows great ownership.
+Tracy Johnson,E45358,IT Engineer,"Networking, Hardware Support, Linux",CompTIA A+,20,Munich,Morgan collaborates well across teams.,Ryan has shown strong technical skills.
+Sherri Doyle,E61389,Lead Data Scientist,"Project Leadership, Mentoring",AWS ML Specialty,22,Mumbai,Thomas has growth potential.,Aimee has shown strong technical skills.
+Jennifer Reeves,E63358,End User Services Manager,"Service Desk, Incident Management, ITIL",ITIL Certification,4,Bangalore,Melissa shows great ownership.,Matthew collaborates well across teams.
+Kristine Carter,E45810,Machine Learning Engineer,"Python, MLOps, Model Training",TensorFlow Developer Certificate,21,Chennai,Francisco is a proactive team member.,Jessica has shown strong technical skills.
+Robert Arroyo,E15529,Associate Consultant,"Documentation, Client Interaction",PMP Associate,7,Chicago,Michael is a proactive team member.,Nicholas brings innovative solutions.
+David Lutz,E60297,Product Manager,"Strategy, Analytics, Roadmapping",PMI-ACP,21,Pune,Maria mentors junior staff effectively.,Michelle delivers results on time.
+Tristan Colon,E86201,Product Owner,"Backlog Management, Scrum",CSPO,10,London,Madeline mentors junior staff effectively.,Sara collaborates well across teams.
+Billy Hudson,E75244,End User Services Manager,"Incident Management, ITIL",ITIL Certification,1,Amsterdam,Amanda has growth potential.,Jason mentors junior staff effectively.
+Victoria Moran,E63284,Tester,"Selenium, Automation, Manual Testing",ISTQB,7,San Francisco,Laura is a proactive team member.,Kendra is a proactive team member.
+Caitlin Jacobs,E91652,Tester,"Manual Testing, Automation, Selenium",ISTQB,11,San Francisco,Charlene brings innovative solutions.,Morgan brings innovative solutions.
+David Herrera,E50962,UI/UX Designer,"Figma, Sketch, Wireframing",Google UX Certification,21,New York,Tristan delivers results on time.,Andre collaborates well across teams.
+Cole Vasquez,E38932,Data Scientist,"Pandas, Sklearn",IBM Data Science Professional,21,Chennai,Donna mentors junior staff effectively.,Abigail delivers results on time.
+Wendy Miller,E16193,AI Engineer,"Deep Learning, LLMs",AWS ML Specialty,22,Barcelona,Nathan has shown strong technical skills.,Amy shows great ownership.
+Sophia Oliver,E45847,IT Infrastructure Services,"Server Management, Networking",Cisco CCNA,11,Hyderabad,Diana has shown strong technical skills.,Patricia mentors junior staff effectively.
+Lauren Smith,E71369,Project Manager,"Scrum, Planning, Agile",PMP,25,Delhi,Robert delivers results on time.,Chad collaborates well across teams.
+Samantha Reed,E21256,AI Engineer,"NLP, Deep Learning, LLMs",AWS ML Specialty,8,Austin,Craig mentors junior staff effectively.,Anne mentors junior staff effectively.
+Nathaniel Hood,E32907,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,25,Chicago,Carla collaborates well across teams.,Loretta brings innovative solutions.
+David Jordan,E22495,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,7,Paris,Steven brings innovative solutions.,Lisa mentors junior staff effectively.
+Kenneth Medina,E27888,IT Infrastructure Services,"Cloud Services, Server Management",AWS SysOps,10,Paris,Deborah mentors junior staff effectively.,Alexander brings innovative solutions.
+Brandon Long,E96121,Associate Consultant,"Documentation, Client Interaction",PMP Associate,15,Manchester,Carla has shown strong technical skills.,Jessica collaborates well across teams.
+Ashley Glenn,E20787,Project Manager,"Scrum, Planning",PMP,9,Chennai,Ralph provides consistent quality work.,Lisa shows great ownership.
+James Santiago,E21287,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,16,Manchester,Crystal brings innovative solutions.,April provides consistent quality work.
+Robin Carlson,E20881,Machine Learning Engineer,"Model Training, Python",TensorFlow Developer Certificate,23,London,Erica shows great ownership.,Robert has shown strong technical skills.
+Lorraine Monroe,E94260,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,18,San Francisco,James delivers results on time.,Stephen brings innovative solutions.
+Craig Johnson,E41888,Associate Consultant,"Documentation, Client Interaction",PMP Associate,12,Pune,David shows great ownership.,Katherine has shown strong technical skills.
+Eric Thomas,E53526,UI/UX Designer,"Wireframing, Figma",Google UX Certification,10,Brisbane,Barbara delivers results on time.,Robert provides consistent quality work.
+James Aguirre,E61478,IT Consultant,"Architecture, Cloud, DevOps",Azure Solutions Architect,19,Delhi,Katherine mentors junior staff effectively.,Theresa brings innovative solutions.
+Kathleen Sparks,E82379,Product Owner,"Backlog Management, Scrum",CSPO,15,Melbourne,Kristen mentors junior staff effectively.,Robert shows great ownership.
+Justin Ramos,E41258,End User Services Manager,"Service Desk, Incident Management",ITIL Certification,14,Chennai,Cindy mentors junior staff effectively.,Lisa is a proactive team member.
+Maria Warren,E22857,Tester,"Automation, Selenium, Manual Testing",ISTQB,9,Austin,Jason mentors junior staff effectively.,Reginald collaborates well across teams.
+Nicholas Fernandez,E85781,Lead Data Scientist,"ML Models, Mentoring, Project Leadership",AWS ML Specialty,23,Barcelona,Eric delivers results on time.,Frederick shows great ownership.
+Brian Harvey,E27577,Machine Learning Engineer,"Python, Model Training",TensorFlow Developer Certificate,9,New York,Dana mentors junior staff effectively.,Allison has shown strong technical skills.
+Kimberly Scott,E24615,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,17,Bangalore,Kathy mentors junior staff effectively.,Michael provides consistent quality work.
+Daniel Wallace,E66026,Project Manager,"Agile, Scrum",PMP,8,Amsterdam,Christie brings innovative solutions.,Kimberly delivers results on time.
+Patricia Walton,E16868,IT Infrastructure Services,"Networking, Cloud Services",Cisco CCNA,16,Hyderabad,Bridget mentors junior staff effectively.,James needs improvement in communication.
+Melissa Adams,E56689,Product Manager,"Roadmapping, Strategy, Analytics",PMI-ACP,13,Sydney,Nathan is a proactive team member.,Kelly has growth potential.
+Melissa Howard MD,E84549,Lead Data Scientist,"Project Leadership, Mentoring, ML Models",AWS ML Specialty,19,Pune,Matthew brings innovative solutions.,John provides consistent quality work.
+Chelsea Gray,E90279,Associate Consultant,"Documentation, Client Interaction",PMP Associate,10,Sydney,Amanda collaborates well across teams.,John collaborates well across teams.
+Tyrone Mckee,E75622,Lead Data Scientist,"ML Models, Mentoring",AWS ML Specialty,1,Paris,Anthony shows great ownership.,Amanda has growth potential.
+Jeffrey Rodriguez,E52557,IT Infrastructure Services,"Server Management, Cloud Services, Networking",Cisco CCNA,2,Hyderabad,Linda mentors junior staff effectively.,James delivers results on time.
+Brady Donaldson,E41923,AI Engineer,"Deep Learning, NLP",Azure AI Engineer,10,London,Vincent mentors junior staff effectively.,Robert has shown strong technical skills.
+Cassie Salinas,E89725,Product Manager,"Roadmapping, Strategy",PMI-ACP,3,London,Justin delivers results on time.,Melanie provides consistent quality work.
+Elizabeth Tucker,E20031,Senior Data Scientist,"Statistics, Python",Azure Data Scientist Associate,17,Melbourne,Kelly has growth potential.,Shelby shows great ownership.
+Kimberly Norris,E70003,Associate Consultant,"Client Interaction, Documentation",PMP Associate,10,Birmingham,Chris has growth potential.,Lauren is a proactive team member.
+Derrick Murphy,E38482,Data Scientist,"Sklearn, Pandas, EDA",IBM Data Science Professional,18,Mumbai,Pamela has growth potential.,Dakota needs improvement in communication.
+Mrs. Lori Hunter,E85910,Product Owner,"Scrum, Backlog Management",CSPO,17,Delhi,Bryan needs improvement in communication.,Katie delivers results on time.
+John Underwood,E58715,Data Scientist,"Pandas, Sklearn",IBM Data Science Professional,23,Chennai,Larry needs improvement in communication.,Donald shows great ownership.
+Michael Jones,E49205,Lead Data Scientist,"Project Leadership, Mentoring, ML Models",AWS ML Specialty,12,Melbourne,Brittney needs improvement in communication.,Carlos needs improvement in communication.
+James Carter,E96136,Lead Data Scientist,"Mentoring, ML Models",AWS ML Specialty,6,Bangalore,Daniel brings innovative solutions.,Sheri brings innovative solutions.
+Tonya Hooper,E48047,IT Infrastructure Services,"Server Management, Networking",Cisco CCNA,23,Pune,Regina has growth potential.,Ashlee needs improvement in communication.
+Patrick Mills,E70390,Senior Data Scientist,"Statistics, ML Algorithms, Python",Azure Data Scientist Associate,17,Amsterdam,Jeremy delivers results on time.,Kimberly is a proactive team member.
+Matthew Herring,E62739,IT Infrastructure Services,"Networking, Cloud Services",AWS SysOps,7,Birmingham,Amanda is a proactive team member.,Dustin collaborates well across teams.
+Jorge Reynolds,E80879,Product Manager,"Analytics, Strategy",PMI-ACP,25,San Francisco,Edward shows great ownership.,Carly is a proactive team member.
+Valerie White,E28011,Project Manager,"Planning, Scrum",PMP,11,Bangalore,Dominique has shown strong technical skills.,Andrew needs improvement in communication.
+Jose Obrien,E20830,End User Services Manager,"ITIL, Service Desk, Incident Management",ITIL Certification,8,San Francisco,John shows great ownership.,Jessica has growth potential.
+Tracy Garcia,E81760,Data Scientist,"Pandas, Sklearn",IBM Data Science Professional,16,Birmingham,Frances is a proactive team member.,Alexandra shows great ownership.
+Taylor Mitchell,E10227,IT Consultant,"Cloud, DevOps",Azure Solutions Architect,3,Birmingham,Nicole provides consistent quality work.,Christopher collaborates well across teams.
+Timothy Green,E32758,Data Scientist,"Pandas, EDA",IBM Data Science Professional,16,Amsterdam,Jennifer has shown strong technical skills.,Jeffrey has shown strong technical skills.
+Gina Sharp,E61436,IT Consultant,"DevOps, Cloud, Architecture",Azure Solutions Architect,21,Delhi,Julie brings innovative solutions.,Rachel mentors junior staff effectively.
+Joanna Anderson,E45415,End User Services Manager,"Incident Management, Service Desk",ITIL Certification,12,Mumbai,Emily shows great ownership.,Scott provides consistent quality work.
+Virginia Cook,E34356,Senior Data Scientist,"ML Algorithms, Statistics",Azure Data Scientist Associate,9,Manchester,Scott shows great ownership.,Matthew delivers results on time.
+David Gomez,E45428,IT Consultant,"Architecture, Cloud",Azure Solutions Architect,5,Hyderabad,Michael mentors junior staff effectively.,Michael shows great ownership.
+Jaime Smith,E55247,Project Manager,"Agile, Planning",PMP,23,Melbourne,Tammie is a proactive team member.,Bianca is a proactive team member.
+Riley Johnson,E34574,AI Engineer,"LLMs, NLP",AWS ML Specialty,19,Delhi,Melissa collaborates well across teams.,David mentors junior staff effectively.
+Charles Conley,E62639,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,7,Berlin,Brent mentors junior staff effectively.,Robin shows great ownership.
+Craig Pena,E16198,IT Consultant,"DevOps, Architecture",Azure Solutions Architect,20,Paris,John shows great ownership.,Annette mentors junior staff effectively.
+Mary Stewart,E42234,Data Scientist,"Pandas, Sklearn",IBM Data Science Professional,13,New York,Cynthia provides consistent quality work.,Courtney mentors junior staff effectively.
+Joel Chen,E55499,End User Services Manager,"Incident Management, ITIL",ITIL Certification,17,San Francisco,Patrick provides consistent quality work.,Ethan needs improvement in communication.
+Alexandra Grimes,E41138,Product Manager,"Roadmapping, Strategy, Analytics",PMI-ACP,20,Brisbane,Garrett brings innovative solutions.,Victoria needs improvement in communication.
+Anna Saunders,E55167,Data Scientist,"Sklearn, EDA, Pandas",IBM Data Science Professional,10,Melbourne,Elizabeth has growth potential.,Michelle has shown strong technical skills.
+Erik Gibbs DDS,E21200,AI Engineer,"LLMs, Deep Learning, NLP",Azure AI Engineer,9,Sydney,Amanda delivers results on time.,Tricia has shown strong technical skills.
+Kathleen Frost,E52638,AI Engineer,"LLMs, Deep Learning",Azure AI Engineer,12,Birmingham,William has shown strong technical skills.,Megan provides consistent quality work.
+Carlos Lewis,E60765,IT Engineer,"Networking, Linux",CompTIA A+,20,Austin,Jesse has growth potential.,Donald provides consistent quality work.
+Justin Lawrence,E51917,AI Engineer,"NLP, Deep Learning",AWS ML Specialty,8,Manchester,Jessica shows great ownership.,Christina mentors junior staff effectively.
+Jerry Smith,E60555,UI/UX Designer,"Figma, Wireframing",Google UX Certification,25,Hyderabad,Christina has shown strong technical skills.,Cynthia mentors junior staff effectively.
+Tonya Warner,E54274,Developer,"Python, Java",Oracle Certified Java Developer,7,Delhi,Jason delivers results on time.,Cheryl needs improvement in communication.
+Megan Larson,E80162,IT Consultant,"Cloud, Architecture, DevOps",Azure Solutions Architect,17,Sydney,Katherine mentors junior staff effectively.,Stephen has shown strong technical skills.
+Tammy Baker,E90885,IT Consultant,"Cloud, Architecture, DevOps",Azure Solutions Architect,19,New York,Elaine delivers results on time.,Joann needs improvement in communication.
+Laura Mccann,E80014,End User Services Manager,"Incident Management, ITIL, Service Desk",ITIL Certification,24,Chennai,Sydney provides consistent quality work.,Willie brings innovative solutions.
+Brian Matthews,E76598,Product Manager,"Analytics, Roadmapping",PMI-ACP,16,Austin,Larry shows great ownership.,Hailey provides consistent quality work.
+Sharon Paul,E43398,Lead Data Scientist,"ML Models, Project Leadership",AWS ML Specialty,9,Bangalore,Lisa has shown strong technical skills.,Maureen provides consistent quality work.
+Erin Chapman DDS,E55151,IT Infrastructure Services,"Server Management, Cloud Services, Networking",Cisco CCNA,22,Bangalore,Ashley brings innovative solutions.,Elizabeth collaborates well across teams.
+Alicia Collins,E55140,AI Engineer,"Deep Learning, LLMs, NLP",Azure AI Engineer,24,Austin,Steven has shown strong technical skills.,Zachary mentors junior staff effectively.
+Kathryn Young,E62342,Senior Data Scientist,"Python, Statistics",Azure Data Scientist Associate,17,New York,Meredith mentors junior staff effectively.,Xavier brings innovative solutions.
+Deborah Landry,E83935,Associate Consultant,"Client Interaction, Documentation",PMP Associate,3,San Francisco,Richard needs improvement in communication.,Sean mentors junior staff effectively.
+Gary Blake,E32060,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,16,Chennai,Barbara shows great ownership.,Carrie shows great ownership.
+Elizabeth Peterson,E57155,Product Owner,"Scrum, Backlog Management",CSPO,23,San Francisco,Christopher collaborates well across teams.,Paul shows great ownership.
+Gregory Weber,E91645,Data Scientist,"Pandas, Sklearn, EDA",IBM Data Science Professional,9,Barcelona,Gina delivers results on time.,Kaitlyn provides consistent quality work.
+Clayton Donaldson,E70500,Associate Consultant,"Documentation, Client Interaction",PMP Associate,11,Chennai,Steven provides consistent quality work.,Thomas has growth potential.
+Michael Thompson,E79038,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,11,Manchester,Brett provides consistent quality work.,John brings innovative solutions.
+Evelyn Brown,E69757,Data Scientist,"Pandas, Sklearn",IBM Data Science Professional,15,Pune,Ellen needs improvement in communication.,Grant delivers results on time.
+John Fernandez,E92661,Tester,"Manual Testing, Selenium, Automation",ISTQB,8,Munich,Kevin collaborates well across teams.,Sandy shows great ownership.
+Lori Jones,E15863,Associate Consultant,"Documentation, Client Interaction",PMP Associate,16,Brisbane,Lisa collaborates well across teams.,Maria is a proactive team member.
+Sandra Thompson,E72655,AI Engineer,"NLP, LLMs",AWS ML Specialty,19,Berlin,Rachel brings innovative solutions.,Kenneth shows great ownership.
+Aaron Moore,E81388,Lead Data Scientist,"ML Models, Project Leadership, Mentoring",AWS ML Specialty,8,Sydney,Michael needs improvement in communication.,Jesus mentors junior staff effectively.
+Amber Wallace,E95970,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,17,Hyderabad,Nicholas is a proactive team member.,Michelle brings innovative solutions.
+Erika Gregory,E33615,End User Services Manager,"ITIL, Incident Management, Service Desk",ITIL Certification,22,Austin,Stephen provides consistent quality work.,John has shown strong technical skills.
+Julie Dominguez,E29082,Machine Learning Engineer,"Python, MLOps, Model Training",TensorFlow Developer Certificate,11,Paris,Joann delivers results on time.,Anna needs improvement in communication.
+Chad Smith,E51726,Senior Data Scientist,"ML Algorithms, Python",Azure Data Scientist Associate,11,San Francisco,Rodney has growth potential.,Donna collaborates well across teams.
+Dominique Jones,E68092,UI/UX Designer,"Wireframing, Sketch",Google UX Certification,7,Mumbai,Timothy has growth potential.,Matthew shows great ownership.
+Anthony Meyer,E50081,IT Engineer,"Hardware Support, Linux",CompTIA A+,20,Mumbai,Scott is a proactive team member.,Jasmine provides consistent quality work.
+Janet Williams,E77473,IT Engineer,"Networking, Hardware Support, Linux",CompTIA A+,1,Chennai,Teresa is a proactive team member.,James has shown strong technical skills.
+Kristina Johnson,E53772,Product Owner,"Backlog Management, Scrum",CSPO,21,Paris,Jessica needs improvement in communication.,Teresa provides consistent quality work.
+Mike Armstrong,E67341,End User Services Manager,"ITIL, Incident Management, Service Desk",ITIL Certification,22,Delhi,Amber has growth potential.,Ryan is a proactive team member.
+Christopher Ward,E44150,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,11,Berlin,Emma collaborates well across teams.,Melinda collaborates well across teams.
+Lori Perez,E80015,Tester,"Manual Testing, Automation",ISTQB,12,Bangalore,Adam is a proactive team member.,Michele provides consistent quality work.
+Theresa Taylor,E56407,Associate Consultant,"Documentation, Client Interaction",PMP Associate,21,San Francisco,Terri mentors junior staff effectively.,Mark has shown strong technical skills.
+Alicia Bauer,E32718,Senior Data Scientist,"Statistics, Python, ML Algorithms",Azure Data Scientist Associate,12,Sydney,Savannah is a proactive team member.,Sophia brings innovative solutions.
+Charles Kelley,E89935,IT Engineer,"Linux, Networking",CompTIA A+,6,Mumbai,Rick collaborates well across teams.,Andrew provides consistent quality work.
+Richard Duran,E90810,Senior Data Scientist,"Statistics, Python, ML Algorithms",Azure Data Scientist Associate,18,Brisbane,John brings innovative solutions.,Samantha provides consistent quality work.
+Randy Peterson,E59263,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,2,Sydney,Valerie shows great ownership.,Erica brings innovative solutions.
+Austin Lopez,E39899,Product Manager,"Analytics, Strategy",PMI-ACP,25,Delhi,Stacey delivers results on time.,Barbara delivers results on time.
+Christy Warren,E51553,AI Engineer,"Deep Learning, LLMs",Azure AI Engineer,13,Manchester,Caroline is a proactive team member.,Sheila mentors junior staff effectively.
+Tammy Flores,E58332,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,14,Birmingham,Brandi mentors junior staff effectively.,Colleen needs improvement in communication.
+Christopher Scott,E64539,End User Services Manager,"Incident Management, ITIL, Service Desk",ITIL Certification,22,San Francisco,Jose brings innovative solutions.,Jackson provides consistent quality work.
+Brent Hernandez,E55217,UI/UX Designer,"Wireframing, Sketch, Figma",Google UX Certification,10,Hyderabad,Melissa shows great ownership.,Harry delivers results on time.
+Brad Hogan,E25283,AI Engineer,"LLMs, NLP",Azure AI Engineer,18,Amsterdam,Joseph delivers results on time.,Elaine collaborates well across teams.
+Jennifer Clark,E45158,IT Consultant,"Architecture, DevOps",Azure Solutions Architect,22,Barcelona,Eric brings innovative solutions.,Steve brings innovative solutions.
+Mary Willis,E94270,Tester,"Manual Testing, Automation",ISTQB,13,Paris,John mentors junior staff effectively.,Aaron needs improvement in communication.
+Jeremy Novak,E83103,UI/UX Designer,"Sketch, Figma",Google UX Certification,21,Berlin,Ashley collaborates well across teams.,Tina delivers results on time.
+Whitney Roberts,E93027,Lead Data Scientist,"Mentoring, ML Models",AWS ML Specialty,1,Manchester,Hannah mentors junior staff effectively.,Ryan mentors junior staff effectively.
+Lisa Powell,E15326,Senior Data Scientist,"Statistics, ML Algorithms, Python",Azure Data Scientist Associate,5,Hyderabad,Sherry needs improvement in communication.,Maureen has growth potential.
+Jeffery Powell MD,E63373,Data Scientist,"Pandas, EDA, Sklearn",IBM Data Science Professional,3,Barcelona,Kyle delivers results on time.,Gary delivers results on time.
+Barbara Dean,E40856,Product Owner,"Scrum, Backlog Management",CSPO,17,San Francisco,Erik mentors junior staff effectively.,Miranda has growth potential.
+Calvin Smith,E68185,Data Scientist,"EDA, Pandas",IBM Data Science Professional,3,Austin,Rebecca mentors junior staff effectively.,Kristina has growth potential.
+Sean Romero,E16154,IT Infrastructure Services,"Networking, Cloud Services, Server Management",AWS SysOps,17,Bangalore,Jeffery brings innovative solutions.,Ashley has growth potential.
+Michael Nelson,E85030,IT Engineer,"Networking, Linux",CompTIA A+,2,Delhi,Nathaniel brings innovative solutions.,Michelle shows great ownership.
+Tina Perez,E92334,Data Scientist,"Sklearn, EDA, Pandas",IBM Data Science Professional,25,Chennai,Adam shows great ownership.,Melissa has shown strong technical skills.
+Brandi King,E54740,Product Owner,"Backlog Management, Scrum",CSPO,15,London,Stacey provides consistent quality work.,Barbara delivers results on time.
+Patricia Valenzuela,E71158,Senior Data Scientist,"Statistics, Python, ML Algorithms",Azure Data Scientist Associate,25,Munich,Peter has shown strong technical skills.,Makayla needs improvement in communication.
+Tina Castillo,E89614,Developer,"Python, APIs",Oracle Certified Java Developer,25,New York,Patricia provides consistent quality work.,Madeline provides consistent quality work.
+Mitchell Taylor,E10606,Tester,"Selenium, Manual Testing, Automation",ISTQB,23,Barcelona,Julie is a proactive team member.,Randy shows great ownership.
+Haley Salinas,E35442,UI/UX Designer,"Figma, Wireframing, Sketch",Google UX Certification,18,Mumbai,Kelly needs improvement in communication.,Victor has shown strong technical skills.
+Zachary Allen,E80517,UI/UX Designer,"Figma, Sketch",Google UX Certification,23,Amsterdam,Megan is a proactive team member.,Lindsey shows great ownership.
+Melissa Crawford,E62477,Product Manager,"Roadmapping, Analytics, Strategy",PMI-ACP,7,Hyderabad,Shelly needs improvement in communication.,Benjamin shows great ownership.
+Natalie Harris,E52502,End User Services Manager,"Service Desk, ITIL, Incident Management",ITIL Certification,20,Munich,Kelly collaborates well across teams.,Michelle mentors junior staff effectively.
+Devin Hernandez,E64106,Associate Consultant,"Client Interaction, Documentation",PMP Associate,12,Barcelona,Jason is a proactive team member.,David has growth potential.
+Shane Watkins,E48886,Project Manager,"Planning, Scrum, Agile",PMP,16,Berlin,Erik has growth potential.,Daniel needs improvement in communication.
+Mrs. Donna Lopez MD,E57530,End User Services Manager,"Service Desk, ITIL",ITIL Certification,14,London,Shirley mentors junior staff effectively.,Nathan mentors junior staff effectively.
+George Larson,E13224,UI/UX Designer,"Figma, Sketch",Google UX Certification,18,Munich,Alicia shows great ownership.,Jorge shows great ownership.
+Justin Grant,E90200,IT Infrastructure Services,"Networking, Cloud Services, Server Management",Cisco CCNA,19,Hyderabad,Brian has growth potential.,Matthew needs improvement in communication.
+John Stewart,E65586,UI/UX Designer,"Figma, Wireframing, Sketch",Google UX Certification,10,Brisbane,Elizabeth delivers results on time.,Laurie mentors junior staff effectively.
+Javier Contreras,E81715,IT Engineer,"Linux, Hardware Support, Networking",CompTIA A+,9,Paris,Brittany brings innovative solutions.,Monique needs improvement in communication.
+Kimberly Barron,E38698,AI Engineer,"NLP, Deep Learning",AWS ML Specialty,9,Munich,Lindsay needs improvement in communication.,Edward is a proactive team member.
+James Diaz,E59654,Senior Data Scientist,"Python, ML Algorithms, Statistics",Azure Data Scientist Associate,9,Munich,Anthony mentors junior staff effectively.,Lisa brings innovative solutions.
+Vanessa Bass,E10482,Machine Learning Engineer,"MLOps, Model Training",TensorFlow Developer Certificate,12,Amsterdam,Lindsey shows great ownership.,Raymond shows great ownership.
+Michelle Garcia,E82806,Senior Data Scientist,"Statistics, ML Algorithms",Azure Data Scientist Associate,19,Melbourne,Angela has shown strong technical skills.,Jason delivers results on time.
+Jennifer Williams,E49635,IT Consultant,"DevOps, Architecture, Cloud",Azure Solutions Architect,2,Berlin,Rachel delivers results on time.,Samantha needs improvement in communication.
+Christine Jenkins,E53853,Senior Data Scientist,"Python, Statistics",Azure Data Scientist Associate,9,Sydney,Heather collaborates well across teams.,Darrell collaborates well across teams.
+Brandon Villa,E66958,IT Infrastructure Services,"Server Management, Networking",AWS SysOps,7,Barcelona,Kari brings innovative solutions.,Derrick is a proactive team member.
+Matthew Beltran,E68008,UI/UX Designer,"Wireframing, Sketch, Figma",Google UX Certification,5,Melbourne,Jason shows great ownership.,Melanie has shown strong technical skills.
+Scott Smith,E18973,IT Infrastructure Services,"Networking, Server Management",Cisco CCNA,12,Bangalore,Alexa needs improvement in communication.,Robert shows great ownership.
+Tonya Garcia,E19264,Product Owner,"Backlog Management, Scrum",CSPO,8,Birmingham,Karen delivers results on time.,Michael needs improvement in communication.
+Sharon Bright,E92056,Senior Data Scientist,"Statistics, Python",Azure Data Scientist Associate,18,Chicago,William is a proactive team member.,Victor is a proactive team member.
+Anthony Whitehead,E12067,Product Manager,"Strategy, Roadmapping",PMI-ACP,16,Munich,Daniel has growth potential.,Ryan has growth potential.
+Andrew Murphy,E17696,IT Engineer,"Networking, Linux",CompTIA A+,25,Bangalore,Danny delivers results on time.,Justin shows great ownership.
+Cynthia French PhD,E71972,IT Engineer,"Hardware Support, Networking",CompTIA A+,21,Paris,Calvin shows great ownership.,Peter provides consistent quality work.
+Frederick Anderson,E42415,IT Engineer,"Networking, Hardware Support",CompTIA A+,13,Pune,Devin mentors junior staff effectively.,Jennifer mentors junior staff effectively.
+John Arnold,E10709,AI Engineer,"Deep Learning, NLP",AWS ML Specialty,1,Hyderabad,Roger collaborates well across teams.,John brings innovative solutions.
+Anne Thompson,E75120,Developer,"APIs, Python",Oracle Certified Java Developer,22,Birmingham,Kenneth is a proactive team member.,Shane mentors junior staff effectively.
+Matthew Green,E36518,AI Engineer,"NLP, LLMs",AWS ML Specialty,17,Hyderabad,Timothy has shown strong technical skills.,Linda collaborates well across teams.
+Lindsey Collier,E79271,Data Scientist,"Sklearn, EDA",IBM Data Science Professional,14,Manchester,Richard shows great ownership.,Russell collaborates well across teams.
+Carlos Carlson,E64774,Lead Data Scientist,"Project Leadership, ML Models, Mentoring",AWS ML Specialty,11,Pune,Tracy collaborates well across teams.,Lauren has growth potential.
+Haley Villarreal,E14627,Machine Learning Engineer,"Python, Model Training, MLOps",TensorFlow Developer Certificate,8,Austin,Joshua needs improvement in communication.,Kevin has shown strong technical skills.
+Veronica Lewis,E15523,IT Consultant,"Architecture, Cloud",Azure Solutions Architect,18,Munich,Jeffrey mentors junior staff effectively.,Beth collaborates well across teams.
+Robert Simmons,E74657,Tester,"Automation, Manual Testing",ISTQB,6,Paris,Jessica shows great ownership.,Anthony brings innovative solutions.
+Kimberly Johnson,E10097,End User Services Manager,"Service Desk, Incident Management, ITIL",ITIL Certification,19,Birmingham,Brandon needs improvement in communication.,Richard needs improvement in communication.
+Jody Schneider,E73348,Senior Data Scientist,"ML Algorithms, Python, Statistics",Azure Data Scientist Associate,9,New York,Rachel shows great ownership.,Patrick provides consistent quality work.
+Robert Williams,E16153,Tester,"Automation, Selenium",ISTQB,7,Barcelona,Matthew is a proactive team member.,Bryan collaborates well across teams.
+Megan Beck,E96118,Product Manager,"Strategy, Analytics",PMI-ACP,8,Austin,Christine has growth potential.,Julie brings innovative solutions.
+Mark Mccoy,E14468,IT Infrastructure Services,"Server Management, Cloud Services",AWS SysOps,24,Brisbane,Mary mentors junior staff effectively.,Karen provides consistent quality work.
+Kevin Jenkins,E12326,Developer,"Java, APIs, Python",Oracle Certified Java Developer,8,Pune,Joshua shows great ownership.,Daniel collaborates well across teams.
+Christopher Allen,E56321,Tester,"Manual Testing, Selenium",ISTQB,4,Chicago,Timothy shows great ownership.,Cassandra collaborates well across teams.
+Damon Boyd,E51949,Associate Consultant,"Client Interaction, Documentation",PMP Associate,11,Paris,Tony needs improvement in communication.,Charles delivers results on time.
+James Villa,E75962,Data Scientist,"Sklearn, Pandas, EDA",IBM Data Science Professional,3,Brisbane,Stephen brings innovative solutions.,John needs improvement in communication.
+Yvette Moore,E98790,Lead Data Scientist,"Project Leadership, ML Models, Mentoring",AWS ML Specialty,8,Hyderabad,Monica mentors junior staff effectively.,Travis has shown strong technical skills.
+Robert Dunn,E66780,AI Engineer,"LLMs, Deep Learning",AWS ML Specialty,7,Munich,Andrea brings innovative solutions.,Heidi needs improvement in communication.
+Michael Harmon,E69932,UI/UX Designer,"Wireframing, Sketch",Google UX Certification,17,Pune,Lisa has growth potential.,Brandon has shown strong technical skills.
+Kevin Wade,E37538,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,23,New York,Candace collaborates well across teams.,Leah collaborates well across teams.
+Mark Patel,E35191,IT Infrastructure Services,"Server Management, Networking",Cisco CCNA,15,Manchester,Megan is a proactive team member.,Kent collaborates well across teams.
+Cynthia Middleton,E44362,Tester,"Selenium, Automation",ISTQB,3,Delhi,Sydney has shown strong technical skills.,Kevin collaborates well across teams.
+Jessica Carter,E50925,IT Consultant,"Cloud, DevOps",Azure Solutions Architect,19,Mumbai,Oscar collaborates well across teams.,Julia is a proactive team member.
+Dr. Sarah Turner,E23597,UI/UX Designer,"Wireframing, Figma",Google UX Certification,12,Sydney,James provides consistent quality work.,John delivers results on time.
+Carla Lewis,E20657,AI Engineer,"LLMs, NLP, Deep Learning",Azure AI Engineer,22,Melbourne,Laura needs improvement in communication.,Michelle collaborates well across teams.
+Joseph Diaz,E28559,Lead Data Scientist,"ML Models, Project Leadership",AWS ML Specialty,10,London,Michelle mentors junior staff effectively.,Brenda collaborates well across teams.
+Michael Mercer,E92217,IT Infrastructure Services,"Server Management, Cloud Services",AWS SysOps,1,Chicago,Danielle has shown strong technical skills.,Lindsey is a proactive team member.
+Deborah Myers,E83865,Tester,"Automation, Manual Testing",ISTQB,13,Munich,James provides consistent quality work.,Cassandra has growth potential.
+Jennifer Cook,E73973,UI/UX Designer,"Figma, Wireframing",Google UX Certification,7,Melbourne,Ronald needs improvement in communication.,Jennifer is a proactive team member.
+Tim Stanley,E22419,Developer,"APIs, Java",Oracle Certified Java Developer,12,Munich,Ashley brings innovative solutions.,Alexis brings innovative solutions.
+Chris Jensen,E67003,End User Services Manager,"ITIL, Incident Management, Service Desk",ITIL Certification,5,Mumbai,Anita needs improvement in communication.,Frank needs improvement in communication.
+Evelyn Taylor,E62083,Data Scientist,"EDA, Sklearn",IBM Data Science Professional,22,Barcelona,Kelly has growth potential.,Karen has growth potential.
+Mr. Derrick Oliver,E64622,IT Infrastructure Services,"Networking, Cloud Services, Server Management",AWS SysOps,6,Delhi,John needs improvement in communication.,Alexander brings innovative solutions.
+Jessica Turner,E98511,Data Scientist,"Sklearn, Pandas, EDA",IBM Data Science Professional,13,Delhi,Alicia collaborates well across teams.,Parker provides consistent quality work.
+Tracy Pearson,E92401,Product Owner,"Backlog Management, Scrum",CSPO,19,New York,Benjamin brings innovative solutions.,Desiree brings innovative solutions.
+James Davis,E54097,Product Manager,"Strategy, Analytics, Roadmapping",PMI-ACP,3,Melbourne,Michelle brings innovative solutions.,Anthony brings innovative solutions.
+Julia Hicks,E15108,IT Consultant,"Architecture, Cloud, DevOps",Azure Solutions Architect,19,Barcelona,Jonathan is a proactive team member.,Nicholas has shown strong technical skills.
+Jerry Freeman,E27743,AI Engineer,"LLMs, NLP, Deep Learning",Azure AI Engineer,20,Chennai,Mary provides consistent quality work.,Crystal has shown strong technical skills.
+Kelli Mills,E79742,Developer,"APIs, Java",Oracle Certified Java Developer,18,San Francisco,Courtney has shown strong technical skills.,Jennifer has shown strong technical skills.
+Kristin Ross,E85584,UI/UX Designer,"Sketch, Figma",Google UX Certification,17,Birmingham,Joshua mentors junior staff effectively.,Joan needs improvement in communication.
+Tyler Fritz,E10442,Product Owner,"Scrum, Backlog Management",CSPO,13,Birmingham,Penny brings innovative solutions.,Paige mentors junior staff effectively.
+Lindsay Houston,E88016,End User Services Manager,"ITIL, Service Desk",ITIL Certification,10,Chennai,Jacob needs improvement in communication.,Stephen brings innovative solutions.
+Hector Graham,E83520,UI/UX Designer,"Figma, Sketch",Google UX Certification,20,Hyderabad,Glenn needs improvement in communication.,Jennifer mentors junior staff effectively.
+Christopher Brady,E15217,Associate Consultant,"Client Interaction, Documentation",PMP Associate,10,Brisbane,Renee brings innovative solutions.,Sara collaborates well across teams.
+Christina Jacobs,E27771,Lead Data Scientist,"ML Models, Mentoring",AWS ML Specialty,12,New York,Amanda provides consistent quality work.,Brett shows great ownership.
+Kenneth Trevino,E68199,Tester,"Manual Testing, Automation, Selenium",ISTQB,15,Brisbane,Kari delivers results on time.,Lisa collaborates well across teams.
+Troy Carr,E84471,UI/UX Designer,"Figma, Wireframing, Sketch",Google UX Certification,8,Sydney,Joshua brings innovative solutions.,Mark mentors junior staff effectively.
+Carlos Day,E70273,Machine Learning Engineer,"Python, Model Training, MLOps",TensorFlow Developer Certificate,10,London,Amanda has growth potential.,Madison shows great ownership.
+Christian Morgan,E46969,End User Services Manager,"Service Desk, Incident Management, ITIL",ITIL Certification,10,Barcelona,Jay has growth potential.,John needs improvement in communication.
+Hector Romero,E64480,End User Services Manager,"Incident Management, Service Desk",ITIL Certification,9,Delhi,Jodi provides consistent quality work.,April collaborates well across teams.
+Amy Douglas,E26048,Data Scientist,"Pandas, EDA, Sklearn",IBM Data Science Professional,12,Birmingham,Donna needs improvement in communication.,Sarah needs improvement in communication.
+Michelle Stevens,E56153,Machine Learning Engineer,"Model Training, Python",TensorFlow Developer Certificate,7,Birmingham,Charles delivers results on time.,Cory delivers results on time.
+Mark Reyes,E45876,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,21,Manchester,Jack has growth potential.,Miranda has growth potential.
+Hailey Ramirez,E65622,IT Engineer,"Networking, Linux",CompTIA A+,4,London,Donald mentors junior staff effectively.,Terri provides consistent quality work.
+Kimberly Edwards,E94273,Developer,"Python, Java, APIs",Oracle Certified Java Developer,3,Mumbai,Lauren collaborates well across teams.,Jacob has shown strong technical skills.
+Meagan Boyle,E87695,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,10,Berlin,Martha has shown strong technical skills.,Sean has growth potential.
+Katie Taylor,E55020,UI/UX Designer,"Wireframing, Figma, Sketch",Google UX Certification,11,New York,Amber needs improvement in communication.,Jennifer needs improvement in communication.
+Kristi Baker,E67411,Machine Learning Engineer,"Python, MLOps",TensorFlow Developer Certificate,20,Barcelona,William is a proactive team member.,Heather needs improvement in communication.
+Carlos Lee,E84872,Associate Consultant,"Client Interaction, Documentation",PMP Associate,25,Chicago,Kevin shows great ownership.,Jamie has growth potential.
+Andrew Graham,E51825,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,3,London,Heather needs improvement in communication.,Alex has shown strong technical skills.
+Brian Barnes,E55869,Developer,"Python, APIs",Oracle Certified Java Developer,7,San Francisco,Nancy shows great ownership.,Joseph is a proactive team member.
+Hector Moore,E75813,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,5,Bangalore,Christopher delivers results on time.,Jason has growth potential.
+James Wolf,E52456,AI Engineer,"NLP, LLMs, Deep Learning",Azure AI Engineer,7,San Francisco,Joshua shows great ownership.,Veronica brings innovative solutions.
+Nicole Bradley,E13978,Associate Consultant,"Client Interaction, Documentation",PMP Associate,24,Berlin,Ashley provides consistent quality work.,Kimberly collaborates well across teams.
+Christine Martin,E65061,Tester,"Automation, Selenium, Manual Testing",ISTQB,1,Sydney,Jack mentors junior staff effectively.,Jesse is a proactive team member.
+David Sanders,E86299,IT Engineer,"Linux, Networking",CompTIA A+,7,London,Crystal provides consistent quality work.,Anthony has growth potential.
+Michelle Snow,E33417,IT Infrastructure Services,"Networking, Cloud Services",AWS SysOps,9,Brisbane,Diana provides consistent quality work.,Ashley collaborates well across teams.
+James Austin,E20109,IT Consultant,"Cloud, DevOps",Azure Solutions Architect,18,Berlin,Leah is a proactive team member.,Michael brings innovative solutions.
+Helen Montgomery,E18253,Product Manager,"Roadmapping, Strategy, Analytics",PMI-ACP,16,Munich,Bradley provides consistent quality work.,Craig provides consistent quality work.
+Shannon Collins,E83927,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,20,Barcelona,Joy is a proactive team member.,Kelsey is a proactive team member.
+Michael Graham,E89108,Lead Data Scientist,"Mentoring, Project Leadership, ML Models",AWS ML Specialty,1,London,James provides consistent quality work.,James needs improvement in communication.
+Megan Sullivan,E86688,Project Manager,"Planning, Agile",PMP,20,London,Thomas delivers results on time.,Eugene mentors junior staff effectively.
+Kelly Jones MD,E14019,IT Consultant,"DevOps, Cloud",Azure Solutions Architect,22,Bangalore,Natalie delivers results on time.,Luke collaborates well across teams.
+Angela Saunders,E61703,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,9,Melbourne,Cheryl delivers results on time.,Stanley collaborates well across teams.
+John Pope,E52197,Associate Consultant,"Client Interaction, Documentation",PMP Associate,14,Mumbai,Brent needs improvement in communication.,John has shown strong technical skills.
+Edward Barnett,E96639,Senior Data Scientist,"Python, Statistics",Azure Data Scientist Associate,16,Berlin,Sarah brings innovative solutions.,Brittany shows great ownership.
+Katherine Ruiz,E31046,End User Services Manager,"ITIL, Service Desk",ITIL Certification,5,London,Jennifer mentors junior staff effectively.,Gabrielle has growth potential.
+John Jones,E71156,IT Infrastructure Services,"Networking, Server Management",Cisco CCNA,5,Chicago,Kyle provides consistent quality work.,Karen has shown strong technical skills.
+Mrs. Jessica Thomas,E63553,IT Engineer,"Networking, Hardware Support, Linux",CompTIA A+,24,Manchester,Hannah collaborates well across teams.,Pamela collaborates well across teams.
+Matthew Clark,E28412,IT Consultant,"Cloud, Architecture, DevOps",Azure Solutions Architect,11,Hyderabad,Derek delivers results on time.,Elizabeth needs improvement in communication.
+Brad Blair,E63316,Product Manager,"Analytics, Roadmapping",PMI-ACP,25,Amsterdam,Monique collaborates well across teams.,Breanna provides consistent quality work.
+Melissa Medina,E59830,Developer,"APIs, Java",Oracle Certified Java Developer,7,Hyderabad,Stephen collaborates well across teams.,Angela provides consistent quality work.
+Aaron May,E62916,IT Infrastructure Services,"Cloud Services, Server Management, Networking",AWS SysOps,18,New York,Rachel brings innovative solutions.,Michael shows great ownership.
+Michael Johnson,E42885,IT Infrastructure Services,"Server Management, Cloud Services",Cisco CCNA,6,New York,John needs improvement in communication.,Kaylee has growth potential.
+Amber Bennett,E99966,Tester,"Selenium, Manual Testing",ISTQB,14,Delhi,Candice is a proactive team member.,Dave has growth potential.
+Carrie Obrien,E32397,UI/UX Designer,"Figma, Sketch",Google UX Certification,15,Birmingham,Carl needs improvement in communication.,John needs improvement in communication.
+Philip Krause,E49742,Developer,"APIs, Java",Oracle Certified Java Developer,9,New York,Patricia has growth potential.,Jay has growth potential.
+Susan Barrett,E82034,AI Engineer,"LLMs, NLP, Deep Learning",AWS ML Specialty,22,Hyderabad,Bryan provides consistent quality work.,Shane has shown strong technical skills.
+Matthew Brown,E18858,Project Manager,"Scrum, Planning",PMP,14,Brisbane,Donna collaborates well across teams.,Brandon delivers results on time.
+Darryl Boyer,E77111,Machine Learning Engineer,"Python, Model Training, MLOps",TensorFlow Developer Certificate,16,Sydney,Katrina collaborates well across teams.,Joseph is a proactive team member.
+Dean Fitzpatrick,E47950,IT Consultant,"Cloud, DevOps, Architecture",Azure Solutions Architect,3,San Francisco,Angela is a proactive team member.,Christopher delivers results on time.
+Lori Abbott,E66061,Associate Consultant,"Documentation, Client Interaction",PMP Associate,5,Barcelona,Tina brings innovative solutions.,Melanie brings innovative solutions.
+Sherry Oliver,E13320,Lead Data Scientist,"ML Models, Project Leadership, Mentoring",AWS ML Specialty,5,Manchester,Jason has shown strong technical skills.,Zachary provides consistent quality work.
+David Lopez,E68670,Product Owner,"Backlog Management, Scrum",CSPO,18,New York,Carlos shows great ownership.,Justin needs improvement in communication.
+Katie Moreno,E51396,Lead Data Scientist,"Mentoring, ML Models",AWS ML Specialty,20,New York,Daniel brings innovative solutions.,Susan needs improvement in communication.
+Vincent Lopez,E35756,Tester,"Selenium, Automation",ISTQB,21,Birmingham,Brandon brings innovative solutions.,Shelley mentors junior staff effectively.
+Dillon Hopkins,E92515,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,12,Barcelona,Ashley mentors junior staff effectively.,Jessica collaborates well across teams.
+Paul Brown,E60818,IT Engineer,"Hardware Support, Linux",CompTIA A+,21,Brisbane,Antonio provides consistent quality work.,Jesus is a proactive team member.
+Ashley Moss,E48379,Data Scientist,"Sklearn, Pandas, EDA",IBM Data Science Professional,20,Paris,Sherri has shown strong technical skills.,Tasha has growth potential.
+David Brown,E53604,Lead Data Scientist,"Mentoring, Project Leadership, ML Models",AWS ML Specialty,8,Sydney,Kathleen has shown strong technical skills.,Rodney shows great ownership.
+Steven Garza,E10511,Associate Consultant,"Documentation, Client Interaction",PMP Associate,8,Pune,Theresa has shown strong technical skills.,Erin has growth potential.
+Chad Wilson,E72962,Senior ML Engineer,"Model Optimization, Leadership",Google Cloud ML Engineer,11,Delhi,Michael has shown strong technical skills.,Kristina collaborates well across teams.
+Amy Ortiz,E59680,Project Manager,"Scrum, Agile, Planning",PMP,7,Munich,Shelly is a proactive team member.,Lauren has growth potential.
+Steven Taylor,E96791,Project Manager,"Planning, Agile",PMP,3,Pune,Matthew brings innovative solutions.,James shows great ownership.
+Joseph Jones,E82680,Project Manager,"Scrum, Agile",PMP,6,Austin,Gregory shows great ownership.,Christine delivers results on time.
+Ann Huber,E70542,Developer,"Python, APIs",Oracle Certified Java Developer,2,Manchester,Vincent provides consistent quality work.,Kimberly has shown strong technical skills.
+Hunter Murray,E84930,Tester,"Selenium, Automation",ISTQB,24,Paris,Annette is a proactive team member.,Sydney has shown strong technical skills.
+Susan Faulkner,E66638,IT Infrastructure Services,"Server Management, Networking, Cloud Services",AWS SysOps,16,Amsterdam,Patricia has shown strong technical skills.,Michael is a proactive team member.
+Emily Higgins,E26371,IT Consultant,"DevOps, Cloud",Azure Solutions Architect,14,Munich,Heidi delivers results on time.,Carrie provides consistent quality work.
+Rebecca Li,E28351,End User Services Manager,"Service Desk, Incident Management, ITIL",ITIL Certification,20,Mumbai,Roger has shown strong technical skills.,Norma has shown strong technical skills.
+Emily Henderson,E95828,IT Infrastructure Services,"Networking, Server Management, Cloud Services",AWS SysOps,5,San Francisco,John needs improvement in communication.,Melissa provides consistent quality work.
+James Hughes,E99900,IT Infrastructure Services,"Networking, Cloud Services, Server Management",AWS SysOps,5,Berlin,Anita delivers results on time.,Julian shows great ownership.
+Maureen Conner,E27712,Senior Data Scientist,"ML Algorithms, Statistics",Azure Data Scientist Associate,12,San Francisco,Carlos needs improvement in communication.,Nicholas mentors junior staff effectively.
+Corey Rogers,E47702,Lead Data Scientist,"ML Models, Project Leadership, Mentoring",AWS ML Specialty,5,Brisbane,Melissa needs improvement in communication.,Nicholas is a proactive team member.
+Ryan Hartman,E50364,Project Manager,"Agile, Planning, Scrum",PMP,20,Barcelona,Amy has growth potential.,Brandon needs improvement in communication.
+Hunter Perry,E35376,Data Scientist,"Pandas, EDA, Sklearn",IBM Data Science Professional,10,Pune,Kevin has growth potential.,Katrina delivers results on time.
+Jessica Jackson,E64111,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,24,Hyderabad,Shannon collaborates well across teams.,Devin brings innovative solutions.
+Jason Hendrix,E75308,Machine Learning Engineer,"MLOps, Python, Model Training",TensorFlow Developer Certificate,13,Melbourne,Michael is a proactive team member.,David has shown strong technical skills.
+Michele Horton,E52003,Machine Learning Engineer,"MLOps, Python",TensorFlow Developer Certificate,16,Hyderabad,Mark provides consistent quality work.,James provides consistent quality work.
+Donna Gilbert,E14384,UI/UX Designer,"Sketch, Figma",Google UX Certification,10,Melbourne,Clifford mentors junior staff effectively.,Samuel has shown strong technical skills.
+Krista Fowler,E64975,Data Scientist,"Pandas, EDA, Sklearn",IBM Data Science Professional,18,Mumbai,Jerry has shown strong technical skills.,Spencer has growth potential.
+Billy Clark,E30113,AI Engineer,"Deep Learning, NLP",AWS ML Specialty,25,Hyderabad,Deborah has shown strong technical skills.,Laura needs improvement in communication.
+Heather Smith,E18757,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,14,Chicago,Heather brings innovative solutions.,Melissa shows great ownership.
+Luis Cooper,E90846,UI/UX Designer,"Figma, Sketch",Google UX Certification,25,Barcelona,Robert has shown strong technical skills.,Jessica mentors junior staff effectively.
+Joshua Steele,E25218,Product Manager,"Analytics, Strategy, Roadmapping",PMI-ACP,8,Delhi,Donna collaborates well across teams.,Thomas is a proactive team member.
+Maria Smith,E51857,Developer,"Python, Java, APIs",Oracle Certified Java Developer,8,Barcelona,Andrew has shown strong technical skills.,Steven mentors junior staff effectively.
+Tiffany Fox,E39961,IT Infrastructure Services,"Server Management, Cloud Services",AWS SysOps,21,Delhi,Emily shows great ownership.,Samantha provides consistent quality work.
+Cameron Woods,E96779,Developer,"APIs, Python, Java",Oracle Certified Java Developer,6,Birmingham,Ashley collaborates well across teams.,Kevin mentors junior staff effectively.
+Sean Schmidt,E64287,IT Consultant,"Cloud, Architecture, DevOps",Azure Solutions Architect,21,Mumbai,Ashley mentors junior staff effectively.,Sarah delivers results on time.
+Julia Thompson,E60672,UI/UX Designer,"Figma, Wireframing",Google UX Certification,5,Sydney,James delivers results on time.,William shows great ownership.
+Jordan Gilmore,E84585,Senior Data Scientist,"Statistics, Python",Azure Data Scientist Associate,14,Brisbane,Paul mentors junior staff effectively.,Mary brings innovative solutions.
+Robin Morgan,E81401,Product Manager,"Roadmapping, Analytics",PMI-ACP,12,Bangalore,Chelsea needs improvement in communication.,Denise has growth potential.
+Christopher Powers,E21857,Data Scientist,"EDA, Pandas",IBM Data Science Professional,2,Chicago,Jennifer is a proactive team member.,Billy provides consistent quality work.
+Mr. Jeff Hines,E61727,Product Manager,"Roadmapping, Analytics, Strategy",PMI-ACP,25,Pune,Tara is a proactive team member.,Anthony has shown strong technical skills.
+Nancy Reyes,E81788,IT Consultant,"Architecture, DevOps",Azure Solutions Architect,8,Pune,Joe collaborates well across teams.,Briana shows great ownership.
+Tiffany Villegas,E45514,Tester,"Selenium, Automation, Manual Testing",ISTQB,12,Amsterdam,Kimberly has shown strong technical skills.,Natalie has shown strong technical skills.
+Rachel Ferguson,E93936,UI/UX Designer,"Figma, Sketch, Wireframing",Google UX Certification,16,Sydney,Jaclyn provides consistent quality work.,Samuel needs improvement in communication.
+Suzanne Barajas,E45067,IT Consultant,"DevOps, Cloud, Architecture",Azure Solutions Architect,20,Amsterdam,Jonathan delivers results on time.,Jay shows great ownership.
+Jaclyn Sanders,E13672,IT Engineer,"Linux, Networking, Hardware Support",CompTIA A+,15,Bangalore,Kelsey is a proactive team member.,Erica shows great ownership.
+Rhonda Burns,E39248,IT Engineer,"Hardware Support, Networking",CompTIA A+,21,Melbourne,Dan shows great ownership.,Robert needs improvement in communication.
+Holly Kirby,E80945,Product Manager,"Strategy, Analytics, Roadmapping",PMI-ACP,2,Birmingham,Raymond needs improvement in communication.,Lisa has shown strong technical skills.
+Megan Smith,E77563,IT Consultant,"Cloud, DevOps, Architecture",Azure Solutions Architect,22,San Francisco,Sara is a proactive team member.,Michael mentors junior staff effectively.
+Adam Valencia,E95105,UI/UX Designer,"Wireframing, Sketch",Google UX Certification,17,Manchester,Robert provides consistent quality work.,Brenda provides consistent quality work.
+Dr. Lori Dennis,E19564,Machine Learning Engineer,"MLOps, Python",TensorFlow Developer Certificate,25,Mumbai,Dawn has shown strong technical skills.,Robert has growth potential.
+Daniel Evans,E77637,Data Scientist,"EDA, Sklearn",IBM Data Science Professional,15,San Francisco,Jason mentors junior staff effectively.,Sarah collaborates well across teams.
+David Dominguez,E20384,Project Manager,"Planning, Scrum, Agile",PMP,5,Chennai,Tara brings innovative solutions.,Dana shows great ownership.
+Robert Moore,E69606,Senior Data Scientist,"Python, Statistics, ML Algorithms",Azure Data Scientist Associate,12,Amsterdam,Deborah needs improvement in communication.,Troy brings innovative solutions.
+Katelyn Howell,E93286,End User Services Manager,"Service Desk, Incident Management",ITIL Certification,14,Pune,Aaron needs improvement in communication.,Megan has shown strong technical skills.
+Christina Shah,E85438,Data Scientist,"Sklearn, EDA, Pandas",IBM Data Science Professional,22,Mumbai,Veronica provides consistent quality work.,Courtney delivers results on time.
+Wanda Torres,E15858,Tester,"Manual Testing, Selenium, Automation",ISTQB,24,San Francisco,Jackson brings innovative solutions.,Mario collaborates well across teams.
+Elizabeth Hayes,E55224,Product Owner,"Scrum, Backlog Management",CSPO,10,Chennai,Melissa is a proactive team member.,Gregory needs improvement in communication.
+Dennis Barnes,E47295,Senior ML Engineer,"Leadership, Model Optimization",Google Cloud ML Engineer,24,Berlin,Susan provides consistent quality work.,Samuel has growth potential.
+Steven Mathews,E30214,Developer,"Python, APIs, Java",Oracle Certified Java Developer,22,Paris,Matthew mentors junior staff effectively.,Brandon collaborates well across teams.
+Martin Gonzales Jr.,E33313,Tester,"Selenium, Automation",ISTQB,20,Barcelona,Clayton delivers results on time.,Kaitlyn has growth potential.
+Marie Phillips,E59056,Machine Learning Engineer,"Python, MLOps, Model Training",TensorFlow Developer Certificate,21,Paris,Samuel is a proactive team member.,Matthew collaborates well across teams.
+Jordan Rodriguez,E47636,IT Infrastructure Services,"Cloud Services, Server Management, Networking",Cisco CCNA,4,Melbourne,Erika collaborates well across teams.,Teresa delivers results on time.
+Andrew Weaver,E84103,AI Engineer,"NLP, Deep Learning, LLMs",AWS ML Specialty,7,Melbourne,Dana has growth potential.,Michael brings innovative solutions.
+Tiffany Ruiz,E15987,IT Engineer,"Networking, Hardware Support, Linux",CompTIA A+,14,Austin,William has shown strong technical skills.,Ronald is a proactive team member.
+Amy Torres,E55155,UI/UX Designer,"Wireframing, Figma",Google UX Certification,9,London,Lauren provides consistent quality work.,James shows great ownership.
+Claudia Wilson,E93732,IT Infrastructure Services,"Networking, Server Management, Cloud Services",AWS SysOps,23,New York,Richard needs improvement in communication.,Andrea brings innovative solutions.
+Gerald Hayes,E62219,Business Analyst,"Requirement Analysis, Stakeholder Management",CBAP,4,Birmingham,Jessica brings innovative solutions.,Edward provides consistent quality work.
+Linda Dickson,E90931,Machine Learning Engineer,"Python, Model Training",TensorFlow Developer Certificate,7,San Francisco,Catherine mentors junior staff effectively.,Richard is a proactive team member.
+Mr. Joseph Craig,E72167,IT Engineer,"Networking, Hardware Support, Linux",CompTIA A+,25,Chennai,Kelly has shown strong technical skills.,John has growth potential.
+Teresa Stevenson,E35811,AI Engineer,"LLMs, NLP, Deep Learning",AWS ML Specialty,18,Hyderabad,Tina has growth potential.,Victoria collaborates well across teams.
+Gregory Morse,E43199,IT Engineer,"Linux, Hardware Support",CompTIA A+,4,Melbourne,Jennifer mentors junior staff effectively.,Edward mentors junior staff effectively.
+Cheryl Harris,E83508,IT Infrastructure Services,"Server Management, Cloud Services",AWS SysOps,25,Delhi,Christina has shown strong technical skills.,Jason collaborates well across teams.
+Christopher Norris,E80169,Developer,"APIs, Java",Oracle Certified Java Developer,20,Melbourne,Christina delivers results on time.,Rebecca collaborates well across teams.
+William Parker,E47599,Lead Data Scientist,"Mentoring, ML Models, Project Leadership",AWS ML Specialty,10,Hyderabad,Anthony has shown strong technical skills.,Michael shows great ownership.
+Donna Vasquez,E47299,Business Analyst,"Stakeholder Management, Requirement Analysis",CBAP,6,Birmingham,Joshua is a proactive team member.,Erica collaborates well across teams.
+Tim Rodriguez,E95384,Tester,"Manual Testing, Selenium",ISTQB,16,Munich,Courtney brings innovative solutions.,Vanessa brings innovative solutions.
+Joseph Ayala,E92557,Product Manager,"Analytics, Strategy, Roadmapping",PMI-ACP,25,Munich,Dustin provides consistent quality work.,Thomas brings innovative solutions.
+Shirley Rose,E31324,Developer,"Python, Java, APIs",Oracle Certified Java Developer,24,Hyderabad,Lauren delivers results on time.,Amanda shows great ownership.
