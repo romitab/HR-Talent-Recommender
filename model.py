@@ -1,3 +1,4 @@
+
 import pandas as pd
 import numpy as np
 import re
@@ -6,18 +7,19 @@ from sentence_transformers import SentenceTransformer
 from transformers import pipeline
 from bert_score import score as bert_score
 from rouge_score import rouge_scorer
-df = pd.read_csv("Diverse_Org_Employee_Dataset_1000.csv")
+
 # ====== Heuristic Hints ======
 SKILL_HINTS = ["python", "sql", "ml", "ai", "docker", "power bi", "java", "tableau"]
 CERT_HINTS = ["aws", "azure", "certified", "certification", "google", "openai", "huggingface"]
 FEEDBACK_HINTS = ["great", "support", "mentor", "help", "team", "improve", "feedback"]
 EXPERIENCE_RANGE = (0, 40)
+
 # ====== Alias Definitions ======
 COLUMN_ALIASES = {
     "skills": ["skills", "skillset", "technical skills", "key skills"],
-    "certifications": ["certifications", "relevant qualifications", "accreditations", "certs","relevant certifications"],
+    "certifications": ["certifications", "relevant qualifications", "accreditations", "certs", "relevant certifications"],
     "experience": ["experience (years)", "years of experience", "exp", "total experience"],
-    "peer_feedback": ["peer feedback", "peer review", "team feedback", "peer comments","peer reviews"],
+    "peer_feedback": ["peer feedback", "peer review", "team feedback", "peer comments", "peer reviews"],
     "manager_feedback": [
         "manager feedback", "supervisor feedback", "performance feedback",
         "manager performance review", "supervisor performance review",
@@ -25,8 +27,8 @@ COLUMN_ALIASES = {
         "performance review", "performance feedback", "performace reviews",
         "manager performance reviews", "supervisor performance reviews"
     ]
-
 }
+
 # ====== Column Detection ======
 def detect_column(df, aliases, check_type):
     for alias in aliases:
@@ -34,7 +36,6 @@ def detect_column(df, aliases, check_type):
             if alias.lower() in col.lower():
                 return col, "alias"
     sample = df.head(10)
-
     if check_type == "experience":
         for col in df.columns:
             try:
@@ -60,39 +61,44 @@ def detect_column(df, aliases, check_type):
             if text_check.sum() >= 5 and keyword_check.sum() >= 3:
                 return col, "heuristic"
     return None, "not found"
+
 def detect_all_columns(df):
     results = {}
     for key, aliases in COLUMN_ALIASES.items():
         col, method = detect_column(df, aliases, key)
         results[key] = {"column": col, "method": method}
     return results
+
 # ====== Sentiment Analysis ======
 def sentiment_score(text, analyzer):
     result = analyzer(text[:512])[0]
     return result['score'] if result['label'] == 'POSITIVE' else 1 - result['score']
+
 # ====== Evaluation Metrics ======
 def evaluate_with_bert_rouge(results_df, query_text):
+    if results_df.empty or "embedding_text" not in results_df:
+        return [0.0] * 10, [0.0] * 10, [0.0] * 10
     candidate_texts = results_df["embedding_text"].tolist()
     reference_texts = [query_text] * len(candidate_texts)
     P, R, F1 = bert_score(candidate_texts, reference_texts, lang="en", model_type="roberta-large", verbose=False)
-    bert_scores = F1.tolist()
-
     scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
-    rouge_scores = [scorer.score(query_text, cand) for cand in candidate_texts]
-    rouge1 = [r["rouge1"].fmeasure for r in rouge_scores]
-    rougeL = [r["rougeL"].fmeasure for r in rouge_scores]
+    rouge1 = []
+    rougeL = []
+    for cand, ref in zip(candidate_texts, reference_texts):
+        scores = scorer.score(ref, cand)
+        rouge1.append(scores['rouge1'].fmeasure)
+        rougeL.append(scores['rougeL'].fmeasure)
+    return F1.tolist(), rouge1, rougeL
 
-    return bert_scores, rouge1, rougeL
 # ====== Recommendation Engine ======
 def hybrid_recommendation(df, query, top_k=10):
     column_map = detect_all_columns(df)
     col = {k: v["column"] for k, v in column_map.items()}
     assert all(col.values()), "Missing required columns in dataset."
 
-    embedder = SentenceTransformer("paraphrase-MiniLM-L6-v2")
-    sentiment_analyzer = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english", device = 0)
+    embedder = SentenceTransformer("all-MiniLM-L6-v2")
+    sentiment_analyzer = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english", device=0)
 
-    # Build embedding text
     def build_text(row):
         return (
             f"{row['Employee Name']} is a {row['Job Title']} with {row[col['experience']]} years of experience. "
@@ -115,20 +121,18 @@ def hybrid_recommendation(df, query, top_k=10):
             for term in str(entry).split(","):
                 terms.add(term.strip().lower())
         return terms
-    #Extract skills and certs from dataset
+
     skills_set = extract_terms(col["skills"])
     certs_set = extract_terms(col["certifications"])
-    # Step: Extract location values from dataset
-    locations_set = set(str(loc).strip().lower() for loc in df["Location"].dropna().unique())
 
-    ## parsing the query to extract skills, certs, location and exp
     def parse_query(query):
         q = query.lower()
         skills = {s for s in skills_set if s in q}
         certs = {c for c in certs_set if c in q}
-        location = next((loc for loc in locations_set if loc in q), None)
         exp_match = re.search(r"(\d+)\s*\+?\s*years?", q)
         min_exp = int(exp_match.group(1)) if exp_match else 0
+        loc_match = re.search(r"\bin\s+([a-zA-Z ]+)$", q)
+        location = loc_match.group(1).strip().lower() if loc_match else None
         return list(skills), list(certs), min_exp, location
 
     required_skills, preferred_certs, min_exp, location = parse_query(query)
@@ -136,8 +140,9 @@ def hybrid_recommendation(df, query, top_k=10):
     _, indices = index.search(np.array(query_embedding), k=top_k * 2)
     candidates = df.iloc[indices[0]].copy()
     candidates = candidates[candidates[col["experience"]] >= min_exp]
+
     if location:
-      candidates = candidates[candidates["Location"].str.lower() == location]
+        candidates = candidates[candidates["Location"].str.lower() == location]
 
     candidates["skill_match"] = candidates[col["skills"]].str.lower().apply(
         lambda s: sum(skill in s for skill in required_skills) / max(len(required_skills), 1)
